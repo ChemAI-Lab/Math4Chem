@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro.md
+parts:
+
+  - caption: Topics
+    chapters:
+    - file: GitHub.md
+      title: GitHub
+      sections:
+      - file: problems/GitHubLearn.md
+        title: "Practice: GitHub"
+
+
+    - file: jupyter.ipynb
+      title: Basics of Jupyter, Python, and Programming
+      sections:
+      - file: problems/JupyterPythonNumpy.md
+        title: "Practice: Python, Jupyter, Numpy"
