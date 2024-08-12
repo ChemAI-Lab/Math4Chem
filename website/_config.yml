@@ -3,7 +3,7 @@
 
 title: Math for Chemists
 author: Rodrigo Vargas-Hernandes, Alexandre De Camargo, Valerii Chuiko, Paul W. Ayers, and friends, with the support of The Jupyter Book Community
-logo: new_logo.png
+logo: logo.png
 
 # build files only in _toc.yml
 only_build_toc_files: true

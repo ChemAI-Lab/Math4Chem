@@ -1,4 +1,4 @@
-# Introduction to Software Development Tools and Tricks.
+# Introduction to Math 4 Chem.
 
 This course introduces people to the tools and tricks of software development. Key topics include:
 - Learning to design software and structure code
