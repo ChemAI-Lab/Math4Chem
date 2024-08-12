@@ -53,4 +53,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./website/_build/html
           publish_branch: gh-pages
-          # cname: intro.qc-edu.org
+          # cname: chemai-lab.com/Math4Chem.html
