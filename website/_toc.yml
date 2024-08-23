@@ -13,7 +13,9 @@ parts:
       - file: problems/GitHubLearn.md
         title: "Practice: GitHub"
 
-
+    - file: Intro_py_to_calc.ipynb 
+      title: Basics of Python 
+      
     - file: jupyter.ipynb
       title: Basics of Jupyter, Python, and Programming
       sections:
