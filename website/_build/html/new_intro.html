@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Introduction to Math 4 Chem. &#8212; Math for Chemists</title>
+    <title>CHEM 3PC3 - Mathematical Tools for Chemical Problems &#8212; Math for Chemists</title>
   
   
   
@@ -32,7 +32,7 @@
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
@@ -59,7 +59,7 @@
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
     <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'intro';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'new_intro';</script>
     <link rel="icon" href="_static/favicon.png"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -179,7 +179,7 @@
         <ul class="nav bd-sidenav bd-sidenav__home-link">
             <li class="toctree-l1 current active">
                 <a class="reference internal" href="#">
-                    Introduction to Math 4 Chem.
+                    CHEM 3PC3 - Mathematical Tools for Chemical Problems
                 </a>
             </li>
         </ul>
@@ -260,7 +260,7 @@
       
       
       
-      <li><a href="https://github.com/QC-Edu/SoftwareDesign/issues/new?title=Issue%20on%20page%20%2Fintro.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/QC-Edu/SoftwareDesign/issues/new?title=Issue%20on%20page%20%2Fnew_intro.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -290,7 +290,7 @@
       
       
       
-      <li><a href="_sources/intro.md" target="_blank"
+      <li><a href="_sources/new_intro.md" target="_blank"
    class="btn btn-sm btn-download-source-button dropdown-item"
    title="Download source file"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -374,7 +374,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Introduction to Math 4 Chem.</h1>
+    <h1>CHEM 3PC3 - Mathematical Tools for Chemical Problems</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -384,9 +384,8 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#projects">Projects</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-and-contributing">Using and Contributing</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#qc-edu">QC-Edu</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-description">Course Description</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#resources">Resources</a></li>
 </ul>
             </nav>
         </div>
@@ -398,45 +397,24 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="introduction-to-math-4-chem">
-<h1>Introduction to Math 4 Chem.<a class="headerlink" href="#introduction-to-math-4-chem" title="Link to this heading">#</a></h1>
-<p>This course introduces people to the tools and tricks of software development. Key topics include:</p>
-<ul class="simple">
-<li><p>Learning to design software and structure code</p></li>
-<li><p>Working with others to develop software</p></li>
-<li><p>Version control with Git and GitHub</p></li>
-<li><p>Debugging and (automatic) Testing</p></li>
-<li><p>Best practices, including comprehensive documentation.</p></li>
-</ul>
-<p>The course is project-based, meaning that there is little to no lecturing. Instead, useful resources are posted on the web site and participants work together to build/refine/develop software packages. This would be impossible without the assistance of many talented and experienced volunteers.</p>
-<p>I strongly recommend using VSCode as your IDE, but PyCharm can also work well.</p>
-<section id="projects">
-<h2>Projects<a class="headerlink" href="#projects" title="Link to this heading">#</a></h2>
-<p>Previous iterations of this course led to open-source packages, including:</p>
-<ul class="simple">
-<li><p><a class="reference external" href="https://gbasis.qcdevs.org/intro.html">GBasis</a> Analytical evaluation and integration of Gaussian-type basis functions and related quantities.</p></li>
-<li><p><a class="reference external" href="https://grid.qcdevs.org/">Grid</a> Numerical integration, interpolation, and differentiation on (molecular) grids.</p></li>
-<li><p><a class="reference external" href="https://selector.qcdevs.org/intro.html">Selector</a> Methods for selecting diverse (molecular) database.</p></li>
-<li><p><a class="reference external" href="https://moha.qcdevs.org/build/html/index.html">Model Hamiltonian</a> Generate 1- and 2-electron integrals so that molecular quantum chemistry software can be used for model Hamiltonians.</p></li>
-</ul>
-<p>This year, we will be working with</p>
-<ul class="simple">
-<li><p><a class="reference external" href="https://chemtools.org/">ChemTools</a> A collection of interpretive chemical tools for analyzing outputs of the quantum chemistry calculations. (We will use the private repository rather than the public-facing one, however.) For more, <a class="reference external" href="https://github.com/QC-Edu/2024CHEM799">see the private GitHub repository</a></p></li>
-<li><p><a class="reference external" href="https://pyci.qcdevs.org/intro.html">PyCI</a> Flexible ab-initio quantum chemistry library for (parameterized) configuration interaction calculations. For more, <a class="reference external" href="https://github.com/QC-Edu/2024CHEM799">see the private GitHub repository</a></p></li>
-</ul>
-<p>For people who would like to follow the course but who are not formally enrolled, it’s recommended to select issues from QC-Devs packages that have been labelled as “Good First Issues.” QC-Devs packages are released through the <a class="reference external" href="https://github.com/theochem">theochem GitHub organization</a>.</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="chem-3pc3-mathematical-tools-for-chemical-problems">
+<h1>CHEM 3PC3 - Mathematical Tools for Chemical Problems<a class="headerlink" href="#chem-3pc3-mathematical-tools-for-chemical-problems" title="Link to this heading">#</a></h1>
+<section id="course-description">
+<h2>Course Description<a class="headerlink" href="#course-description" title="Link to this heading">#</a></h2>
+<p>This course covers essential mathematical topics as tools for solving problems in chemistry. The theme of the first part of the course is thermodynamics calculations. The second part is concerned with linear algebra. Chemical problems associated with equilibrium and kinetics are introduced and solved via calculus and linear algebra. As such, linear algebra - solving systems of linear equations, matrix algebra, eigenvalues and eigenvectors – and some multivariate calculus topics are introduced in a physical context. The course will also cover a brief introduction to moder regression algorithms like neural networks.
+One of the main focuses of the course is the development of coding skills, specifically Python.
+Instruction on the associated programming skills will be provided in tutorials.</p>
 </section>
-<section id="using-and-contributing">
-<h2>Using and Contributing<a class="headerlink" href="#using-and-contributing" title="Link to this heading">#</a></h2>
-<ul class="simple">
-<li><p><a class="reference external" href="https://github.com/theochem/guidelines/blob/main/CodeOfConduct.md"><strong>QC-Devs Code of Conduct:</strong></a> Treat others with respect, kindness, and empathy; assume they’re doing the same. Communicate clearly. Be helpful. Be open. Be nice. If someone says stop; stop.</p></li>
-<li><p><a class="reference external" href="https://github.com/theochem/guidelines/blob/main/contributing.md"><strong>How to Contribute:</strong></a> Contributions are accepted and encouraged! This includes contributions from those who are not formally, or informally, involved/enrolled in the course.</p></li>
-<li><p><a class="reference internal" href="#/website/license.md"><span class="xref myst"><strong>CC0 version 1.0</strong></span></a> license. But where we have reposted/adapted/linked content from other sources, they retain their own copyright/license.</p></li>
-</ul>
-</section>
-<section id="qc-edu">
-<h2>QC-Edu<a class="headerlink" href="#qc-edu" title="Link to this heading">#</a></h2>
-<p>This course is part of the <a class="reference external" href="https://qc-edu.org/intro.html">QC-Edu initiative</a>, which is the educational arm of the QC-Devs organization. The goal of QC-Edu is to provide hig.h-quality, open-source educational resources for quantum chemistry and related fields. QC-Edu was envisioned, and is supported, by Farnaz Heidar-Zadeh, Valerii Chuiko, and Paul W. Ayers.</p>
+<section id="resources">
+<h2>Resources<a class="headerlink" href="#resources" title="Link to this heading">#</a></h2>
+<p>This course does not follow a specific book as it designed to be a collection of topics that are relevant for a common undergraduate program in chemistry. However, if the student wants to consult here are some recommended books:</p>
+<ol class="arabic simple">
+<li><p>Applied mathematics for Physical Chemistry, James R. Barrante.</p></li>
+<li><p>Mathematics for Physical Chemistry, Donald A. McQuarrie.</p></li>
+<li><p>Physical Chemistry, Ira N. Levine.</p></li>
+<li><p>Linear Algebra with applications, Gareth Williams.</p></li>
+</ol>
+<p>Notes from previous years wrote by prof. Randy Dumont will also be shared.</p>
 </section>
 <div class="toctree-wrapper compound">
 </div>
@@ -497,9 +475,8 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#projects">Projects</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#using-and-contributing">Using and Contributing</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#qc-edu">QC-Edu</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-description">Course Description</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#resources">Resources</a></li>
 </ul>
   </nav></div>
 
