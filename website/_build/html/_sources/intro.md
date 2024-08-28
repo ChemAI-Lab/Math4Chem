@@ -15,5 +15,18 @@ This course does not follow a specific book as it designed to be a collection of
 3.	Physical Chemistry, Ira N. Levine.
 4.	Linear Algebra with applications, Gareth Williams.
 
-Notes from previous years wrote by prof. Randy Dumont will also be shared. 
+Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also be shared.
+
+## Classes 
+
+The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on Tuesdays 1:30PM - 2:20PM. 
+
+1. Univariate Calculus and Series: Thermodynamic, heat capacity and integration (Sept. 3-6) 
+
+## Tutorials
+
+The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.
+
+1. [Python Introduction](/Users/alexandre/Projects/math4chem/Math4Chem/website/Tutorial_Presentation/First_Tutorial_3PC3.pptx)
+
 
