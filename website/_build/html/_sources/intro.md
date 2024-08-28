@@ -27,6 +27,6 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
 
 The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.
 
-1. [Python Introduction](/Users/alexandre/Projects/math4chem/Math4Chem/website/Tutorial_Presentation/First_Tutorial_3PC3.pptx)
+1. Python Introduction [[pdf]](https://drive.google.com/file/d/1CbgsCLwFGD97tiQzQWsbkglRbcKGtP4a/view?usp=drive_link)
 
 
