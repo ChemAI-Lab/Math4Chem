@@ -51,7 +51,8 @@ parse:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/QC-Edu/SoftwareDesign  # Online location of your book
+  #url: https://github.com/QC-Edu/SoftwareDesign  # Online location of your book
+  url: https://github.com/AlexandreDeCamargo/Math4Chem
   path_to_book: website  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 

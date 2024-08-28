@@ -2,7 +2,7 @@
  
 ## Course Description 
 
-This course covers essential mathematical topics as tools for solving problems in chemistry. The theme of the first part of the course is thermodynamics calculations. The second part is concerned with linear algebra. Chemical problems associated with equilibrium and kinetics are introduced and solved via calculus and linear algebra. As such, linear algebra - solving systems of linear equations, matrix algebra, eigenvalues and eigenvectors – and some multivariate calculus topics are introduced in a physical context. The course will also cover a brief introduction to moder regression algorithms like neural networks. 
+This course covers essential mathematical topics as tools for solving problems in chemistry. The theme of the first part of the course is thermodynamics calculations. The second part is concerned with linear algebra. Chemical problems associated with equilibrium and kinetics are introduced and solved via calculus and linear algebra. As such, linear algebra - solving systems of linear equations, matrix algebra, eigenvalues and eigenvectors – and some multivariate calculus topics are introduced in a physical context. The course will also cover a brief introduction to model regression algorithms like neural networks. 
 One of the main focuses of the course is the development of coding skills, specifically Python. 
 Instruction on the associated programming skills will be provided in tutorials. 
 

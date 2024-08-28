@@ -242,7 +242,7 @@
       
       
       
-      <li><a href="https://colab.research.google.com/github/QC-Edu/SoftwareDesign/blob/main/website/Intro_to_sympy.ipynb" target="_blank"
+      <li><a href="https://colab.research.google.com/github/AlexandreDeCamargo/Math4Chem/blob/main/website/Intro_to_sympy.ipynb" target="_blank"
    class="btn btn-sm dropdown-item"
    title="Launch on Colab"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -291,7 +291,7 @@
       
       
       
-      <li><a href="https://github.com/QC-Edu/SoftwareDesign" target="_blank"
+      <li><a href="https://github.com/AlexandreDeCamargo/Math4Chem" target="_blank"
    class="btn btn-sm btn-source-repository-button dropdown-item"
    title="Source repository"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -308,7 +308,7 @@
       
       
       
-      <li><a href="https://github.com/QC-Edu/SoftwareDesign/issues/new?title=Issue%20on%20page%20%2FIntro_to_sympy.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/AlexandreDeCamargo/Math4Chem/issues/new?title=Issue%20on%20page%20%2FIntro_to_sympy.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -469,8 +469,8 @@ Note: you may need to restart the kernel to use updated packages.
 </div>
 </div>
 </div>
-<p><code class="docutils literal notranslate"><span class="pre">SymPy</span></code> is not a built-in module so everytime you start a new notebook on Google Colab you need to run the <code class="docutils literal notranslate"><span class="pre">pip</span></code> command above.</p>
-<p>After installing we need to import the libray,</p>
+<p><code class="docutils literal notranslate"><span class="pre">SymPy</span></code> is not a built-in module so every time you start a new notebook on Google Colab you need to run the <code class="docutils literal notranslate"><span class="pre">pip</span></code> command above.</p>
+<p>After installing we need to import the library,</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">sympy</span> <span class="k">as</span> <span class="nn">sy</span> 
@@ -481,7 +481,7 @@ Note: you may need to restart the kernel to use updated packages.
 </div>
 <p><code class="docutils literal notranslate"><span class="pre">import</span> <span class="pre">sympy</span> <span class="pre">as</span> <span class="pre">sy</span></code> loads in the SymPy library for us to use. We give a shorthand name <code class="docutils literal notranslate"><span class="pre">sy</span></code> (could be any other name ), so every time we call something from <code class="docutils literal notranslate"><span class="pre">SymPy</span></code>, we use <code class="docutils literal notranslate"><span class="pre">sy.</span></code>. This helps to keep things organized.</p>
 <p><code class="docutils literal notranslate"><span class="pre">sy.init_printing()</span></code> gets the output to be displayed as nicely formatted mathematics.</p>
-<p>We can check the difference between usign a built-in Python function and the SymPy library by checking this example to compute square roots,</p>
+<p>We can check the difference between using a built-in Python function and the SymPy library by checking this example to compute square roots,</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">math</span> 
@@ -547,7 +547,7 @@ Note: you may need to restart the kernel to use updated packages.
 <img alt="_images/6228109ce1d0a3412fb2ef529ce84f8d617c4da347bc745ac0c5faf7af12cafb.png" src="_images/6228109ce1d0a3412fb2ef529ce84f8d617c4da347bc745ac0c5faf7af12cafb.png" />
 </div>
 </div>
-<p>It is important to notice that this is not an actuall Python function, described in the previously, rather a symbolic representation of a function. Therefore, to evaluate <code class="docutils literal notranslate"><span class="pre">f</span></code> for different values we use the <code class="docutils literal notranslate"><span class="pre">subs()</span></code> function,</p>
+<p>It is important to notice that this is not an actual Python function, described in the previously, rather a symbolic representation of a function. Therefore, to evaluate <code class="docutils literal notranslate"><span class="pre">f</span></code> for different values we use the <code class="docutils literal notranslate"><span class="pre">subs()</span></code> function,</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">f</span><span class="o">.</span><span class="n">subs</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="mi">4</span><span class="p">)</span>
@@ -607,7 +607,7 @@ Note: you may need to restart the kernel to use updated packages.
 <img alt="_images/88611eda9401879419468b7500587c3015c489a63bc89f2aabd0b928b3462da4.png" src="_images/88611eda9401879419468b7500587c3015c489a63bc89f2aabd0b928b3462da4.png" />
 </div>
 </div>
-<p>We can change the variable with respect to ehich we are differentiating,</p>
+<p>We can change the variable with respect to we are differentiating,</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">d_y</span> <span class="o">=</span> <span class="n">sy</span><span class="o">.</span><span class="n">diff</span><span class="p">(</span><span class="n">sy</span><span class="o">.</span><span class="n">sin</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="o">*</span><span class="n">sy</span><span class="o">.</span><span class="n">exp</span><span class="p">(</span><span class="n">x</span><span class="p">),</span><span class="n">y</span><span class="p">)</span>
@@ -637,7 +637,7 @@ Note: you may need to restart the kernel to use updated packages.
 </div>
 </div>
 </div>
-<p>We can symplify the notation,</p>
+<p>We can simplify the notation,</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">df_dx</span> <span class="o">=</span> <span class="n">sy</span><span class="o">.</span><span class="n">diff</span><span class="p">(</span><span class="n">f</span><span class="p">,</span><span class="n">x</span><span class="p">)</span>
@@ -661,7 +661,7 @@ Note: you may need to restart the kernel to use updated packages.
 </section>
 <section id="integrals">
 <h2>Integrals<a class="headerlink" href="#integrals" title="Link to this heading">#</a></h2>
-<p>We use the <code class="docutils literal notranslate"><span class="pre">integrate</span></code> function to integrate using SymPy. For indefinte integrals, the syntax is similar to <code class="docutils literal notranslate"><span class="pre">diff()</span></code>,</p>
+<p>We use the <code class="docutils literal notranslate"><span class="pre">integrate</span></code> function to integrate using SymPy. For indefinite integrals, the syntax is similar to <code class="docutils literal notranslate"><span class="pre">diff()</span></code>,</p>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">sy</span><span class="o">.</span><span class="n">integrate</span><span class="p">(</span><span class="n">expression</span><span class="p">,</span><span class="n">variable</span><span class="p">)</span>
 </pre></div>
 </div>
@@ -727,7 +727,7 @@ Note: you may need to restart the kernel to use updated packages.
 </div>
 <p><code class="docutils literal notranslate"><span class="pre">f</span></code> represents the function or functions we are visualizing</p>
 <p><code class="docutils literal notranslate"><span class="pre">domain</span></code> refers to the interval where the function is plotted over, the default is <span class="math notranslate nohighlight">\([-10,10]\)</span></p>
-<p><code class="docutils literal notranslate"><span class="pre">...</span></code> refers to many optional arguments, which can change the plot’s appearance and behaviour.</p>
+<p><code class="docutils literal notranslate"><span class="pre">...</span></code> refers to many optional arguments, which can change the plot’s appearance and behavior.</p>
 <p>Let’s plot <span class="math notranslate nohighlight">\(f(x^2)\)</span> over <span class="math notranslate nohighlight">\([-5,5]\)</span>,</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -769,7 +769,7 @@ Note: you may need to restart the kernel to use updated packages.
     {
         requestKernel: true,
         binderOptions: {
-            repo: "QC-Edu/SoftwareDesign",
+            repo: "AlexandreDeCamargo/Math4Chem",
             ref: "main",
         },
         codeMirrorConfig: {
