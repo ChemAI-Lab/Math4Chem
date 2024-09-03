@@ -6,6 +6,10 @@ This course covers essential mathematical topics as tools for solving problems i
 One of the main focuses of the course is the development of coding skills, specifically Python. 
 Instruction on the associated programming skills will be provided in tutorials. 
 
+## Outline
+
+The outline of the course can be found in this [[pdf]]()
+
 ## Resources 
 
 This course does not follow a specific book as it designed to be a collection of topics that are relevant for a common undergraduate program in chemistry. However, if the student wants to consult here are some recommended books:
