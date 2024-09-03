@@ -8,7 +8,7 @@ Instruction on the associated programming skills will be provided in tutorials.
 
 ## Outline
 
-The outline of the course can be found in this [[pdf]]()
+The outline of the course can be found in this [[pdf]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/outline_F2024.pdf)
 
 ## Resources 
 
