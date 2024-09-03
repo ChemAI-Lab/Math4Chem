@@ -20,10 +20,9 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 ## Classes 
 The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on Tuesdays 1:30PM - 2:20PM. 
 
-0. Introduction to the course:
-1. [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Notes/Lecture_1.pdf)
+0. Introduction to the course: [[Notes]](https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/Edxb3JyeUJpJuQCnSWo8w9MBglufbTDnhRpKRupqHSSNqA?e=qeQxw1)
 
-2. Univariate Calculus and Series: Thermodynamic, heat capacity and integration (Sept. 3-6) 
+1. Univariate Calculus and Series: Thermodynamic, heat capacity and integration (Sept. 3-6) 
 
 ## Tutorials
 
