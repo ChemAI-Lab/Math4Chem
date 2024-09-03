@@ -18,6 +18,7 @@ This course does not follow a specific book as it designed to be a collection of
 2.	Mathematics for Physical Chemistry, Donald A. McQuarrie.
 3.	Physical Chemistry, Ira N. Levine.
 4.	Linear Algebra with applications, Gareth Williams.
+5.  Matrix cookbook, [[pdf]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also be shared.
 
