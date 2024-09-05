@@ -27,7 +27,7 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
 
 0. Introduction to the course: [[Notes]](https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/Edxb3JyeUJpJuQCnSWo8w9MBglufbTDnhRpKRupqHSSNqA?e=qeQxw1)
 
-1. Univariate Calculus and Series: Thermodynamic, heat capacity and integration (Sept. 3-6) 
+1. Introduction to Derivatives [[Notes]]()
 
 ## Tutorials
 
