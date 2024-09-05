@@ -27,7 +27,10 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
 
 0. Introduction to the course: [[Notes]](https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/Edxb3JyeUJpJuQCnSWo8w9MBglufbTDnhRpKRupqHSSNqA?e=qeQxw1)
 
-1. Introduction to Derivatives [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf)
+1. Introduction to Derivatives [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf)\
+   **Addition of References**
+   1. Chapter 1, Physical Chemistry, Ira N. Levine.
+   2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
 
 ## Tutorials
 
