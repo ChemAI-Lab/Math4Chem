@@ -33,6 +33,6 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
 
 The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.
 
-1. Python Introduction [[pdf]](https://drive.google.com/file/d/1CbgsCLwFGD97tiQzQWsbkglRbcKGtP4a/view?usp=drive_link)
+1. Python Introduction [[pdf]](https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/EZSzxWoaF_VAtbZCemy72o0BxKPC77sKhdumcsmMjR1cTA?e=bgg87y)
 
 
