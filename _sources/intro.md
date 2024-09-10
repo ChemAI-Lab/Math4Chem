@@ -6,6 +6,10 @@ This course covers essential mathematical topics as tools for solving problems i
 One of the main focuses of the course is the development of coding skills, specifically Python. 
 Instruction on the associated programming skills will be provided in tutorials. 
 
+## Outline
+
+The outline of the course can be found in this [[pdf]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/outline_F2024.pdf) [[pdf]](https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/EY6CnBiTRu1Enr8LhRCbpPoBxDis0e7b5mCICKOTL8WUkA?e=gVAdhZ)
+
 ## Resources 
 
 This course does not follow a specific book as it designed to be a collection of topics that are relevant for a common undergraduate program in chemistry. However, if the student wants to consult here are some recommended books:
@@ -14,19 +18,24 @@ This course does not follow a specific book as it designed to be a collection of
 2.	Mathematics for Physical Chemistry, Donald A. McQuarrie.
 3.	Physical Chemistry, Ira N. Levine.
 4.	Linear Algebra with applications, Gareth Williams.
+5.  Matrix cookbook, [[pdf]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also be shared.
 
 ## Classes 
-
 The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on Tuesdays 1:30PM - 2:20PM. 
 
-1. Univariate Calculus and Series: Thermodynamic, heat capacity and integration (Sept. 3-6) 
+0. Introduction to the course: [[Notes]](https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/Edxb3JyeUJpJuQCnSWo8w9MBglufbTDnhRpKRupqHSSNqA?e=qeQxw1)
+
+1. Introduction to Derivatives [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf)\
+   **Addition of References**
+   1. Chapter 1, Physical Chemistry, Ira N. Levine.
+   2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
 
 ## Tutorials
 
 The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.
 
-1. Python Introduction [[pdf]](https://drive.google.com/file/d/1CbgsCLwFGD97tiQzQWsbkglRbcKGtP4a/view?usp=drive_link)
+1. Python Introduction [[pdf]](https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/EZSzxWoaF_VAtbZCemy72o0BxKPC77sKhdumcsmMjR1cTA?e=bgg87y)
 
 
