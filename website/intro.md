@@ -32,6 +32,11 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
    1. Chapter 1, Physical Chemistry, Ira N. Levine.
    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
 
+2. Introduction to Integrals [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Integral_notes.pdf)\
+   **Addition of References**
+   1. Chapter 1, Physical Chemistry, Ira N. Levine.
+   2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
+
 ## Tutorials
 
 The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.
