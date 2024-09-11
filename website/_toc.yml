@@ -7,17 +7,11 @@ parts:
 
   - caption: Topics
     chapters:
-    # - file: GitHub.md
-    #   title: GitHub
-    #   sections:
-    #   - file: problems/GitHubLearn.md
-    #     title: "Practice: GitHub"
-
-    - file: Intro_py_to_calc.ipynb 
+    - file: Jupyter_files/Intro_py_to_calc.ipynb 
       title: Basics of Python
-    - file: Intro_to_sympy.ipynb
+    - file: Jupyter_files/Intro_to_sympy.ipynb
       title: Basics of Numpy
-    - file: Intro_to_numpy.ipynb
+    - file: Jupyter_files/Intro_to_numpy.ipynb
       title: Basics of Numpy
       
     # - file: jupyter.ipynb
@@ -25,3 +19,9 @@ parts:
     #   sections:
     #   - file: problems/JupyterPythonNumpy.md
     #     title: "Practice: Python, Jupyter, Numpy"
+
+    # - file: GitHub.md
+    #   title: GitHub
+    #   sections:
+    #   - file: problems/GitHubLearn.md
+    #     title: "Practice: GitHub"
