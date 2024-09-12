@@ -37,6 +37,10 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
    1. Chapter 1, Physical Chemistry, Ira N. Levine.
    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
 
+## Coding in class
+1. Introduction to derivatives and integrals <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/derivatives_and_integrals.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
 ## Tutorials
 
 The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.
