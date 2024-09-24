@@ -54,4 +54,7 @@ The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+2. SymPY [[pdf]](https://mcmasteru365-my.sharepoint.com/:p:/g/personal/decamara_mcmaster_ca/ER0eOwXjrfZOlheg3cF85XwBe8bIRawBXdAxFKFOJTDUkQ?e=eVR3J9)  
+  
+
 
