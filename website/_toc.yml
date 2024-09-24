@@ -10,7 +10,7 @@ parts:
     - file: Jupyter_files/Intro_py_to_calc.ipynb 
       title: Basics of Python
     - file: Jupyter_files/Intro_to_sympy.ipynb
-      title: Basics of Numpy
+      title: Basics of SymPy 
     - file: Jupyter_files/Intro_to_numpy.ipynb
       title: Basics of Numpy
       
