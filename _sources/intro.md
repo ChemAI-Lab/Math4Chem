@@ -73,3 +73,5 @@ The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.
   
 
 
+## Extra links
+1. Embracing the command line: my unexpected career in computational biology, [link](https://divingintogeneticsandgenomics.com/publication/2023-10-04-nature-career/)
