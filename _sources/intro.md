@@ -24,7 +24,7 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 
 ## Midterm and assigement dates 
 
-![Dates](/Users/alexandre/Projects/math4chem/Math4Chem/website/Icons_config/MidTerm_date.jpeg)
+![Dates](Icons_config/MidTerm_date.jpeg)
 
 ## Classes 
 The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on Tuesdays 1:30PM - 2:20PM. 
