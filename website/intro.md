@@ -75,9 +75,9 @@ The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.
 
 2. SymPY [[pdf]](https://mcmasteru365-my.sharepoint.com/:p:/g/personal/decamara_mcmaster_ca/ER0eOwXjrfZOlheg3cF85XwBe8bIRawBXdAxFKFOJTDUkQ?e=eVR3J9)  
 
-3. Linear Algebra 
-  
-
+3. Linear Algebra <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/alex/website/Tutorial_Presentation/Linear_Algebra.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Extra links
 1. Embracing the command line: my unexpected career in computational biology, [link](https://divingintogeneticsandgenomics.com/publication/2023-10-04-nature-career/)
