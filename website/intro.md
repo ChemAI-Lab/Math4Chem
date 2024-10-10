@@ -22,9 +22,13 @@ This course does not follow a specific book as it designed to be a collection of
 
 Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also be shared.
 
-## Midterm and assignment dates 
+## Midterm and assignment dates  
+* **Midterm**, Oct 24 in class, bring your calculator.
+  * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf)
+* **Assignment 1**, due to Oct 24. 
+  * The link will be posted here today or tomorrow.
 
-![Dates](Icons_config/MidTerm_date.jpeg)
+<!-- ![Dates](Icons_config/MidTerm_date.jpeg) -->
 
 ## Classes 
 The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on Tuesdays 1:30PM - 2:20PM. 
