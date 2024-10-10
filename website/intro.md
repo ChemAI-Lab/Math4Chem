@@ -22,7 +22,7 @@ This course does not follow a specific book as it designed to be a collection of
 
 Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also be shared.
 
-## Midterm and assigement dates 
+## Midterm and assignment dates 
 
 ![Dates](Icons_config/MidTerm_date.jpeg)
 
