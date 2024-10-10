@@ -24,6 +24,7 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 
 ## Midterm and assignment dates  
 * **Midterm**, Oct 24 in class, bring your calculator.
+  * Practice questions [pdf]()
 * **Assignment 1**, due to Oct 24. 
   * The link will be posted here today or tomorrow.
 
