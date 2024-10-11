@@ -1,0 +1,11 @@
+smiles,finger_prints
+CC1CCC2OC1C2O,[0 0 0 ... 0 0 0]
+NC(=N)C(N)(C#C)C#N,[0 0 0 ... 0 0 0]
+COC(=O)c1cc[nH]c1,[0 0 0 ... 0 0 0]
+CCOc1cnc(o1)O,[0 0 0 ... 0 0 0]
+OC1C2CC(C#C)C1O2,[0 0 0 ... 0 0 0]
+OC1C2CN2C11CCC1,[0 0 0 ... 0 0 0]
+CC12CC1C(C2)C(N)=O,[0 0 0 ... 0 0 0]
+OC1CC1C1=CN=CO1,[0 0 0 ... 0 0 0]
+CC1OC2CC2(O)C=C1,[0 0 0 ... 0 0 0]
+C(CCO)CC=O,[0 0 0 ... 0 0 0]
