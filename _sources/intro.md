@@ -26,7 +26,9 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 * **Midterm**, Oct 24 in class, bring your calculator.
   * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf)
 * **Assignment 1**, due to Oct 24. 
-  * The link will be posted here today or tomorrow.
+  * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_1.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 <!-- ![Dates](Icons_config/MidTerm_date.jpeg) -->
 
