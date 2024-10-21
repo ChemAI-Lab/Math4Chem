@@ -55,7 +55,11 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
    **Additional of References**
    1. Chapter 13, Mathematics for Physical Chemistry, Donald A. McQuarrie.
    2. Chapter 1, Linear Algebra with applications, Gareth Williams.
-   
+
+5. Introduction to Linear Regression [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Introduction_Linear_Regression.pdf)<br>
+   **Additional of References**
+   1. Chapter 1 and 6, Linear Algebra with applications, Gareth Williams.
+   **** 
 
 ## Coding in class
 1. Introduction to derivatives and integrals <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/derivatives_and_integrals.ipynb">
