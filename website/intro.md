@@ -56,7 +56,7 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
    1. Chapter 13, Mathematics for Physical Chemistry, Donald A. McQuarrie.
    2. Chapter 1, Linear Algebra with applications, Gareth Williams.
 
-5. Introduction to Linear Regression [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Introduction_Linear_Regression.pdf)<br>
+5. Introduction to Linear Regression [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Linear_Regression.pdf)<br>
    **Additional of References**
    1. Chapter 1 and 6, Linear Algebra with applications, Gareth Williams.
    2. Additional notes [link](https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/13/lecture-13.pdf)
