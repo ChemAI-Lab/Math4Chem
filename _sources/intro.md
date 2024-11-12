@@ -68,7 +68,12 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
 6. NonLinear Equations <br>
    * Notes will be available this time through <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/nonlinear_equations.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-   **** 
+</a>
+7. Chemical Kinetics <br>
+   * Notes will be available this time through <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/chem_kinetics.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+**** 
 
 ## Coding in class
 1. Introduction to derivatives and integrals <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/derivatives_and_integrals.ipynb">
