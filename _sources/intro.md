@@ -122,8 +122,3 @@ The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.
 
 ## Extra links
 1. Embracing the command line: my unexpected career in computational biology, [link](https://divingintogeneticsandgenomics.com/publication/2023-10-04-nature-career/)
-2. CCB Seminar Nov 14
-  https://mcmaster.zoom.us/j/95102015046   <br>
-  Meeting ID: 951 0201 5046   <br>
-  Passcode: 030040  <br>
- 
