@@ -29,7 +29,8 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 * **Assignment 1**, due to Oct 24. 
   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_1.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-* **Assignment 1**, due to Dec 6. 
+  </a>
+* **Assignment 2**, due to Dec 6. 
   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
