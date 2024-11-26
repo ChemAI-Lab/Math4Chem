@@ -66,8 +66,8 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
    2. Chapter 1, Linear Algebra with applications, Gareth Williams.
 
 5. Introduction to Linear Regression [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Linear_Regression.pdf)<br>
-   **Additional of References**
-   . Chapter 1 and 6, Linear Algebra with applications, Gareth Williams.
+   **Additional of References** <br>
+   1. Chapter 1 and 6, Linear Algebra with applications, Gareth Williams.
    2. Additional notes [link](https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/13/lecture-13.pdf)
    * Notes will be available this time through <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/linear_regression_class.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -86,7 +86,7 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
 
 9. Eigenvalue Decomposition  [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/[text](Lecture_Notes/Notes/Eigenvalue_problem.pdf).pdf)<br> 
    **Additional of References** <br>
-   1. Chapter 19, Mathematics for Physical Chemistry, Donald A. McQuarrie.
+   1. Chapters 18 and 19, Mathematics for Physical Chemistry, Donald A. McQuarrie.
    2.  [MIT notes](https://math.mit.edu/~jorloff/suppnotes/suppnotes03/la5.pdf)
    3.  [LibreText Mathematics](https://math.libretexts.org/Bookshelves/Differential_Equations/Differential_Equations_(Chasnov)/07%3A_Systems_of_Equations/7.02%3A_Coupled_First-Order_Equations#mjx-eqn-eq%3A2)
    4.  [University of Bristol](https://people.maths.bris.ac.uk/~maajh/ODEs/chap4.pdf)
