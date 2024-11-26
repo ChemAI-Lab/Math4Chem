@@ -84,7 +84,7 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-9. Eigenvalue Decomposition  [notes coming soon]<br>
+9. Eigenvalue Decomposition  [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/[text](Lecture_Notes/Notes/Eigenvalue_problem.pdf).pdf)<br> 
   Other links for references: <br>
    1.  [MIT notes](https://math.mit.edu/~jorloff/suppnotes/suppnotes03/la5.pdf)
    2.  [LibreText Mathematics](https://math.libretexts.org/Bookshelves/Differential_Equations/Differential_Equations_(Chasnov)/07%3A_Systems_of_Equations/7.02%3A_Coupled_First-Order_Equations#mjx-eqn-eq%3A2)
