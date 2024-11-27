@@ -24,7 +24,7 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 
 ## Midterm and assignment dates  
 * **Final**, Dec 6, bring your calculator.
-  * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/final_practice_material.pdf)
+  * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/final_practice_material.pdf) (**this file will be constantly updated!**)
 * **Midterm**, Oct 24 in class, bring your calculator.
   * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf)
   * **Midterm answers** [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_1_answer_key.pdf)
