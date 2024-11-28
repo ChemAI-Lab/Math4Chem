@@ -132,6 +132,10 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
 9. Eigenvalue Decomposition <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/eigenvalue_decomposition.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
+10. Introduction to Neural Networks  <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/Introduction_to_neural_networks.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 
 ## Tutorials
