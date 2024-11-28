@@ -25,6 +25,10 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 ## Midterm and assignment dates  
 * **Final**, Dec 6, bring your calculator.
   * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/final_practice_material.pdf) (**this file will be constantly updated!**)
+* **Quiz 2**, due to Dec 6.  <br>
+  Print the following file and answer the questions, [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/quiz2.pdf)<br>
+  (You can hand it before the final exam. If your are an ASA student, drop your Quiz in CCB's main office mailbox. I will not accept any Quiz2 once the final exam starts.)<br>
+  
 * **Midterm**, Oct 24 in class, bring your calculator.
   * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf)
   * **Midterm answers** [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_1_answer_key.pdf)
