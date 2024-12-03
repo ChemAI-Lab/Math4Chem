@@ -154,5 +154,13 @@ The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+4. Neural netowrks and Regression Model <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Tutorial_Presentation/Regression.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+5. Challenge Regression Model <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Tutorial_Presentation/Code_Challenge_Regression.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Extra links
 1. Embracing the command line: my unexpected career in computational biology, [link](https://divingintogeneticsandgenomics.com/publication/2023-10-04-nature-career/)
