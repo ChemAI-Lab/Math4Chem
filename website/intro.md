@@ -140,6 +140,7 @@ The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on
 </a>
 
 
+
 ## Tutorials
 
 The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.
