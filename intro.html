@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
 
-    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=9eb32ce0"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
@@ -69,7 +66,6 @@
     <link rel="next" title="Intro to Python" href="Jupyter_files/Intro_py_to_calc.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -85,8 +81,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -94,6 +101,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -101,8 +109,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -120,8 +128,7 @@
       
         
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -151,17 +158,21 @@
     
     
     <img src="_static/new_logo.png" class="logo__image only-light" alt="Math for Chemists - Home"/>
-    <img src="_static/new_logo.png" class="logo__image only-dark pst-js-only" alt="Math for Chemists - Home"/>
+    <script>document.write(`<img src="_static/new_logo.png" class="logo__image only-dark" alt="Math for Chemists - Home"/>`);</script>
   
   
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -186,14 +197,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -337,16 +343,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -399,7 +413,7 @@ Instruction on the associated programming skills will be provided in tutorials.<
 </section>
 <section id="outline">
 <h2>Outline<a class="headerlink" href="#outline" title="Link to this heading">#</a></h2>
-<p>The outline of the course can be found in this <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/outline_F2024.pdf">[pdf]</a> <a class="reference external" href="https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/EY6CnBiTRu1Enr8LhRCbpPoBxDis0e7b5mCICKOTL8WUkA?e=gVAdhZ">[pdf]</a></p>
+<p>The outline of the course can be found in this <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/outline_F2024.pdf">[pdf]</a></p>
 </section>
 <section id="resources">
 <h2>Resources<a class="headerlink" href="#resources" title="Link to this heading">#</a></h2>
@@ -415,188 +429,151 @@ Instruction on the associated programming skills will be provided in tutorials.<
 </section>
 <section id="midterm-and-assignment-dates">
 <h2>Midterm and assignment dates<a class="headerlink" href="#midterm-and-assignment-dates" title="Link to this heading">#</a></h2>
-<ul class="simple">
-<li><p><strong>Final</strong>, Dec 6, bring your calculator.</p>
-<ul>
-<li><p>Practice questions <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/final_practice_material.pdf">pdf</a> (<strong>this file will be constantly updated!</strong>)</p></li>
-</ul>
-</li>
-<li><p><strong>Quiz 2</strong>, due to Dec 6.  <br>
-Print the following file and answer the questions, <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/quiz2.pdf">pdf</a><br>
-(You can hand it before the final exam. If your are an ASA student, drop your Quiz in CCB’s main office mailbox. I will not accept any Quiz2 once the final exam starts.)<br></p></li>
-<li><p><strong>Midterm</strong>, Oct 24 in class, bring your calculator.</p>
-<ul>
-<li><p>Practice questions <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf">pdf</a></p></li>
-<li><p><strong>Midterm answers</strong> <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_1_answer_key.pdf">pdf</a></p></li>
-</ul>
-</li>
-<li><p><strong>Assignment 1</strong>, due to Oct 24.</p>
-<ul>
-<li><p>Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_1.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Link to the assignment solution <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/Assigment_1_solution/Solution.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-</ul>
-</li>
-<li><p><strong>Assignment 2</strong>, due to Dec 6.</p>
-<ul>
-<li><p>Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_2.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-</ul>
-</li>
-</ul>
+<!-- * **Final**, Dec 6, bring your calculator. -->
+<!-- * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/final_practice_material.pdf) (**this file will be constantly updated!**) -->
+<!-- * **Quiz 2**, due to Dec 6.  <br> -->
+<!--   Print the following file and answer the questions, [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/quiz2.pdf)<br> -->
+<!--   (You can hand it before the final exam. If your are an ASA student, drop your Quiz in CCB's main office mailbox. I will not accept any Quiz2 once the final exam starts.)<br> -->
+<!--   -->
+<!-- * **Midterm**, Oct 24 in class, bring your calculator. -->
+<!--   * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf) -->
+<!--   * **Midterm answers** [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_1_answer_key.pdf) -->
+<!-- * **Assignment 1**, due to Oct 24.  -->
+<!--   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_1.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--   </a> -->
+<!--   * Link to the assignment solution <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/Assigment_1_solution/Solution.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!-- </a> -->
+<!--  -->
+<!-- * **Assignment 2**, due to Dec 6.  -->
+<!--   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_2.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!-- </a> -->
 <!-- ![Dates](Icons_config/MidTerm_date.jpeg) -->
 </section>
 <section id="classes">
 <h2>Classes<a class="headerlink" href="#classes" title="Link to this heading">#</a></h2>
-<p>The classes will be held in ABB 163 on Monday &amp; Thursday 12:30PM - 1:20PM and on Tuesdays 1:30PM - 2:20PM.</p>
-<ol class="arabic" start="0">
-<li><p>Introduction to the course: <a class="reference external" href="https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/Edxb3JyeUJpJuQCnSWo8w9MBglufbTDnhRpKRupqHSSNqA?e=qeQxw1">[Notes]</a></p></li>
-<li><p>Introduction to Derivatives <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf">[Notes]</a><br>
-<strong>Additional of References</strong></p>
-<ol class="arabic simple">
-<li><p>Chapter 1, Physical Chemistry, Ira N. Levine.</p></li>
-<li><p>Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.</p></li>
-</ol>
-</li>
-<li><p>Introduction to Integrals <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Integral_notes.pdf">[Notes]</a><br>
-<strong>Additional of References</strong></p>
-<ol class="arabic simple">
-<li><p>Chapter 1, Physical Chemistry, Ira N. Levine.</p></li>
-<li><p>Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.</p></li>
-</ol>
-</li>
-<li><p>Introduction to Thermodynamics <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Intro_thermodynamics_notes.pdf">[Notes]</a><br>
-<strong>Additional of References</strong></p>
-<ol class="arabic simple">
-<li><p>Chapters 1 and 2, Physical Chemistry, Ira N. Levine.</p></li>
-</ol>
-</li>
-<li><p>Introduction to Linear Algebra <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Introduction_Linear_Algebra.pdf">[Notes]</a><br>
-<strong>Additional of References</strong></p>
-<ol class="arabic simple">
-<li><p>Chapter 13, Mathematics for Physical Chemistry, Donald A. McQuarrie.</p></li>
-<li><p>Chapter 1, Linear Algebra with applications, Gareth Williams.</p></li>
-</ol>
-</li>
-<li><p>Introduction to Linear Regression <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Linear_Regression.pdf">[Notes]</a><br>
-<strong>Additional of References</strong> <br></p>
-<ol class="arabic simple">
-<li><p>Chapter 1 and 6, Linear Algebra with applications, Gareth Williams.</p></li>
-<li><p>Additional notes <a class="reference external" href="https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/13/lecture-13.pdf">link</a></p></li>
-</ol>
-<ul class="simple">
-<li><p>Notes will be available this time through <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/linear_regression_class.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-</ul>
-</li>
-<li><p>NonLinear Equations <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Nonlinear_Equations.pdf">[Notes]</a><br></p>
-<ul class="simple">
-<li><p>Notes will be available this time through <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/nonlinear_equations.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-</ul>
-</li>
-<li><p>Chemical Kinetics <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/%5Btext%5D(Lecture_Notes/Notes/Chemical_kinetics.pdf).pdf">[Notes]</a><br>
-<strong>Additional of References</strong></p>
-<ol class="arabic simple">
-<li><p>Chapter 17, Physical Chemistry, Ira N. Levine.</p></li>
-</ol>
-<ul class="simple">
-<li><p>Notes will be available this time through <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/chem_kinetics.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-</ul>
-</li>
-<li><p>Eigenvalue Decomposition  <a class="reference external" href="https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/%5Btext%5D(Lecture_Notes/Notes/Eigenvalue_problem.pdf).pdf">[Notes]</a><br>
-<strong>Additional of References</strong> <br></p>
-<ol class="arabic simple">
-<li><p>Chapters 18 and 19, Mathematics for Physical Chemistry, Donald A. McQuarrie.</p></li>
-<li><p><a class="reference external" href="https://math.mit.edu/~jorloff/suppnotes/suppnotes03/la5.pdf">MIT notes</a></p></li>
-<li><p><a class="reference external" href="https://math.libretexts.org/Bookshelves/Differential_Equations/Differential_Equations_(Chasnov)/07%3A_Systems_of_Equations/7.02%3A_Coupled_First-Order_Equations#mjx-eqn-eq%3A2">LibreText Mathematics</a></p></li>
-<li><p><a class="reference external" href="https://people.maths.bris.ac.uk/~maajh/ODEs/chap4.pdf">University of Bristol</a></p></li>
-</ol>
-<ul class="simple">
-<li><p>Parts of the notes will be available this time through
-<a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/eigenvalue_decomposition.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-</ul>
-</li>
-</ol>
+<!-- The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on Tuesdays 1:30PM - 2:20PM.  -->
+<!--  -->
+<!-- 0. Introduction to the course: [[Notes]](https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/Edxb3JyeUJpJuQCnSWo8w9MBglufbTDnhRpKRupqHSSNqA?e=qeQxw1) -->
+<!--  -->
+<!-- 1. Introduction to Derivatives [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf)<br> -->
+<!--    **Additional of References** -->
+<!--    1. Chapter 1, Physical Chemistry, Ira N. Levine. -->
+<!--    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie. -->
+<!--  -->
+<!-- 2. Introduction to Integrals [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Integral_notes.pdf)<br> -->
+<!--    **Additional of References** -->
+<!--    1. Chapter 1, Physical Chemistry, Ira N. Levine. -->
+<!--    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie. -->
+<!--  -->
+<!-- 3. Introduction to Thermodynamics [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Intro_thermodynamics_notes.pdf)<br>  -->
+<!--    **Additional of References** -->
+<!--    1. Chapters 1 and 2, Physical Chemistry, Ira N. Levine. -->
+<!--  -->
+<!-- 4. Introduction to Linear Algebra [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Introduction_Linear_Algebra.pdf)<br> -->
+<!--    **Additional of References** -->
+<!--    1. Chapter 13, Mathematics for Physical Chemistry, Donald A. McQuarrie. -->
+<!--    2. Chapter 1, Linear Algebra with applications, Gareth Williams. -->
+<!--  -->
+<!-- 5. Introduction to Linear Regression [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Linear_Regression.pdf)<br> -->
+<!--    **Additional of References** <br> -->
+<!--    1. Chapter 1 and 6, Linear Algebra with applications, Gareth Williams. -->
+<!--    2. Additional notes [link](https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/13/lecture-13.pdf) -->
+<!--    * Notes will be available this time through <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/linear_regression_class.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--  </a> -->
+<!--  -->
+<!-- 6. NonLinear Equations [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Nonlinear_Equations.pdf)<br>  -->
+<!--    * Notes will be available this time through <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/nonlinear_equations.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!-- </a> -->
+<!--  -->
+<!-- 7. Chemical Kinetics [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/[text](Lecture_Notes/Notes/Chemical_kinetics.pdf).pdf)<br>  -->
+<!--   **Additional of References** -->
+<!--    1. Chapter 17, Physical Chemistry, Ira N. Levine. -->
+<!--    * Notes will be available this time through <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/chem_kinetics.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!-- </a> -->
+<!--  -->
+<!-- 1. Eigenvalue Decomposition  [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/[text](Lecture_Notes/Notes/Eigenvalue_problem.pdf).pdf)<br>  -->
+<!--    **Additional of References** <br> -->
+<!--    1. Chapters 18 and 19, Mathematics for Physical Chemistry, Donald A. McQuarrie. -->
+<!--    2.  [MIT notes](https://math.mit.edu/~jorloff/suppnotes/suppnotes03/la5.pdf) -->
+<!--    3.  [LibreText Mathematics](https://math.libretexts.org/Bookshelves/Differential_Equations/Differential_Equations_(Chasnov)/07%3A_Systems_of_Equations/7.02%3A_Coupled_First-Order_Equations#mjx-eqn-eq%3A2) -->
+<!--    4.  [University of Bristol](https://people.maths.bris.ac.uk/~maajh/ODEs/chap4.pdf) -->
+<!--      * Parts of the notes will be available this time through -->
+<!--  <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/eigenvalue_decomposition.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--   </a> -->
+<!--  -->
 </section>
 <hr class="docutils" />
 <section id="coding-in-class">
 <h2>Coding in class<a class="headerlink" href="#coding-in-class" title="Link to this heading">#</a></h2>
-<ol class="arabic simple">
-<li><p>Introduction to derivatives and integrals <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/derivatives_and_integrals.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Introduction to Thermodynamics <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/intro_thermo.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Introduction to Linear Algebra <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/intro_linear_algebra.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Matrix operations <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/matrix_operations.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Linear Regression <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/linear_regression.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Polynomial Regression <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/polynomial_regression_overfitting.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Gradient Descent and Newton’s Method <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/nonlinear_equations.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Chemical Kinetics<a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/chem_kinetics.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Eigenvalue Decomposition <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/eigenvalue_decomposition.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Introduction to Neural Networks  <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/Introduction_to_neural_networks.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Introduction to RdKit  <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/Intro_RdKit.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-</ol>
+<!-- 1. Introduction to derivatives and integrals <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/derivatives_and_integrals.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--   </a> -->
+<!-- 2. Introduction to Thermodynamics <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/intro_thermo.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--   </a> -->
+<!-- 3. Introduction to Linear Algebra <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/intro_linear_algebra.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--   </a> -->
+<!-- 4. Matrix operations <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/matrix_operations.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--   </a> -->
+<!-- 5. Linear Regression <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/linear_regression.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--   </a> -->
+<!-- 6. Polynomial Regression <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/polynomial_regression_overfitting.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--   </a> -->
+<!-- 7. Gradient Descent and Newton's Method <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/nonlinear_equations.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--   </a> -->
+<!-- 8. Chemical Kinetics<a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/chem_kinetics.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--   </a> -->
+<!-- 9. Eigenvalue Decomposition <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/eigenvalue_decomposition.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--   </a> -->
+<!-- 10. Introduction to Neural Networks  <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/Introduction_to_neural_networks.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!-- </a> -->
+<!-- 1.  Introduction to RdKit  <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/Intro_RdKit.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!-- </a> -->
+<!--  -->
 </section>
 <section id="tutorials">
 <h2>Tutorials<a class="headerlink" href="#tutorials" title="Link to this heading">#</a></h2>
-<p>The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM.</p>
-<ol class="arabic simple">
-<li><p>Python Introduction <a class="reference external" href="https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/EZSzxWoaF_VAtbZCemy72o0BxKPC77sKhdumcsmMjR1cTA?e=bgg87y">[pdf]</a><br />
-<strong>Coding</strong></p>
-<ol class="arabic simple">
-<li><p>Alternating Series <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Jupyter_files/Alternating_series.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-</ol>
-</li>
-<li><p>SymPY <a class="reference external" href="https://mcmasteru365-my.sharepoint.com/:p:/g/personal/decamara_mcmaster_ca/ER0eOwXjrfZOlheg3cF85XwBe8bIRawBXdAxFKFOJTDUkQ?e=eVR3J9">[pdf]</a></p></li>
-<li><p>Linear Algebra <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/alex/website/Tutorial_Presentation/Linear_Algebra.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Neural netowrks and Regression Model <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Tutorial_Presentation/Regression.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-<li><p>Challenge Regression Model <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Tutorial_Presentation/Code_Challenge_Regression.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a></p></li>
-</ol>
+<!-- The tutorials will be held in KTH B132 on Tuesday 12:30 PM – 1:20 PM. -->
+<!--  -->
+<!-- 1. Python Introduction [[pdf]](https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/EZSzxWoaF_VAtbZCemy72o0BxKPC77sKhdumcsmMjR1cTA?e=bgg87y)\ -->
+<!--    **Coding**  -->
+<!--    1. Alternating Series <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Jupyter_files/Alternating_series.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!-- </a> -->
+<!--  -->
+<!-- 2. SymPY [[pdf]](https://mcmasteru365-my.sharepoint.com/:p:/g/personal/decamara_mcmaster_ca/ER0eOwXjrfZOlheg3cF85XwBe8bIRawBXdAxFKFOJTDUkQ?e=eVR3J9)   -->
+<!--  -->
+<!-- 3. Linear Algebra <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/alex/website/Tutorial_Presentation/Linear_Algebra.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!-- </a> -->
+<!--  -->
+<!-- 4. Neural netowrks and Regression Model <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Tutorial_Presentation/Regression.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!-- </a> -->
+<!--  -->
+<!-- 5. Challenge Regression Model <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Tutorial_Presentation/Code_Challenge_Regression.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!-- </a> -->
 </section>
 <section id="extra-links">
 <h2>Extra links<a class="headerlink" href="#extra-links" title="Link to this heading">#</a></h2>
-<ol class="arabic simple">
-<li><p>Embracing the command line: my unexpected career in computational biology, <a class="reference external" href="https://divingintogeneticsandgenomics.com/publication/2023-10-04-nature-career/">link</a></p></li>
-</ol>
+<!-- 1. Embracing the command line: my unexpected career in computational biology, [link](https://divingintogeneticsandgenomics.com/publication/2023-10-04-nature-career/) -->
 </section>
 <div class="toctree-wrapper compound">
 </div>
@@ -648,8 +625,7 @@ Print the following file and answer the questions, <a class="reference external"
             
             
               
-                <dialog id="pst-secondary-sidebar-modal"></dialog>
-                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -714,8 +690,8 @@ By Rodrigo Vargas-Hernandes, Alexandre De Camargo, Valerii Chuiko, Paul W. Ayers
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>
