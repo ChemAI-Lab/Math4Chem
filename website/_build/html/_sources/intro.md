@@ -165,5 +165,22 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!-- </a> -->
 
+## Weekly Exercise Instructions 
+A new list of exercises will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
+
+There are three types of exercises:
+
+    1. Coding Exercises: These must be submitted electronically by email to decamara@mcmaster.ca.
+
+    2. Exercises with Mathematical Calculations: These must be submitted in person to the teaching assistant (monitor) by the end of the tutorial section in which they are due.
+
+    3. For combined math and coding exercises, email the code to the TA and submit the math calculations in person during the tutorial session in which they are due.
+
+Tutorial hours are an excellent time to work on these exercises and to ask the TA for help, both on the assigned list and on extra practice problems.
+
+## Weekly Exercise
+
+0. [0](https://colab.research.google.com/drive/1xPnZ1bx4KSJOl0ysBf1sUU6kKpC5QY_K#scrollTo=f-qH4FYZGtpm) 
+
 ## Extra links
 <!-- 1. Embracing the command line: my unexpected career in computational biology, [link](https://divingintogeneticsandgenomics.com/publication/2023-10-04-nature-career/) -->
