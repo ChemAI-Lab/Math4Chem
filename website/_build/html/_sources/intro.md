@@ -170,11 +170,11 @@ A new list of exercises will be provided each tutorial. These exercises are to b
 
 There are three types of exercises:
 
-    1. Coding Exercises: These must be submitted electronically by email to decamara@mcmaster.ca.
+1. Coding Exercises: These must be submitted electronically by email to decamara@mcmaster.ca.
 
-    2. Exercises with Mathematical Calculations: These must be submitted in person to the teaching assistant (monitor) by the end of the tutorial section in which they are due.
+2. Exercises with Mathematical Calculations: These must be submitted in person to the teaching assistant (monitor) by the end of the tutorial section in which they are due.
 
-    3. For combined math and coding exercises, email the code to the TA and submit the math calculations in person during the tutorial session in which they are due.
+3. For combined math and coding exercises, email the code to the TA and submit the math calculations in person during the tutorial session in which they are due.
 
 Tutorial hours are an excellent time to work on these exercises and to ask the TA for help, both on the assigned list and on extra practice problems.
 
