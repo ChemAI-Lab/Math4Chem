@@ -172,8 +172,8 @@ There are three types of quizzes, each with its own submission method. Please fo
 1.	Coding Quizzes:
 These must be submitted electronically by email to decamara@mcmaster.ca.
 Important: You must use the following naming template for your submission file:
-STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER
-(e.g., SMITH_001234567_QUIZ_2.py).
+STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb
+(e.g., SMITH_001234567_QUIZ_2.ipynb).
 2.	Exercises with Mathematical Calculations (Pencil and Paper):
 These must be submitted in person to the teaching assistant (monitor) by the end of the tutorial section in which they are due.
 Alternative submission: If you cannot submit in person, you may leave your work in the mailbox located in the main office, specifically in the Dr. Vargas-Hernandez folder. Ensure your name, student ID, and tutorial number are clearly written on the submission.
