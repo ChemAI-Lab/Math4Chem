@@ -185,4 +185,4 @@ Both parts must be submitted by the deadline for your work to be considered comp
 
 ## Weekly Quizzes
 
-0. [0](https://colab.research.google.com/drive/1xPnZ1bx4KSJOl0ysBf1sUU6kKpC5QY_K#scrollTo=f-qH4FYZGtpm) 
+0. [Quiz 0](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_0.ipynb) 
