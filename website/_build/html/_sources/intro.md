@@ -8,7 +8,7 @@ Instruction on the associated programming skills will be provided in tutorials.
 
 ## Outline
 
-The outline of the course can be found in this [[pdf]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/outline_F2024.pdf) 
+The outline of the course can be found [here](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/outline_F2025.pdf) 
 
 
 ## Resources 
@@ -19,7 +19,7 @@ This course does not follow a specific book as it designed to be a collection of
 2.	Mathematics for Physical Chemistry, Donald A. McQuarrie.
 3.	Physical Chemistry, Ira N. Levine.
 4.	Linear Algebra with applications, Gareth Williams.
-5.  Matrix cookbook, [[pdf]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+5.  [Matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also be shared.
 
@@ -165,22 +165,24 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!-- </a> -->
 
-## Weekly Exercise Instructions 
-A new list of exercises will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
+## Weekly Quizzes Instructions 
+A new list of quizzes will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
 
-There are three types of exercises:
+There are three types of quizzes, each with its own submission method. Please follow these instructions carefully to ensure your work is accepted.
+1.	Coding Quizzes:
+These must be submitted electronically by email to decamara@mcmaster.ca.
+Important: You must use the following naming template for your submission file:
+STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER
+(e.g., SMITH_001234567_QUIZ_2.py).
+2.	Exercises with Mathematical Calculations (Pencil and Paper):
+These must be submitted in person to the teaching assistant (monitor) by the end of the tutorial section in which they are due.
+Alternative submission: If you cannot submit in person, you may leave your work in the mailbox located in the main office, specifically in the Dr. Vargas-Hernandez folder. Ensure your name, student ID, and tutorial number are clearly written on the submission.
+3.	Combined Math and Coding Exercises:
+For these exercises, you must complete both parts:
+o	Coding Part: Email your code to decamara@mcmaster.ca, using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.
+o	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be left in the Dr. Vargas-Hernandez folder in the main office mailbox.
+Both parts must be submitted by the deadline for your work to be considered complete.
 
-1. Coding Exercises: These must be submitted electronically by email to decamara@mcmaster.ca.
-
-2. Exercises with Mathematical Calculations: These must be submitted in person to the teaching assistant (monitor) by the end of the tutorial section in which they are due.
-
-3. For combined math and coding exercises, email the code to the TA and submit the math calculations in person during the tutorial session in which they are due.
-
-Tutorial hours are an excellent time to work on these exercises and to ask the TA for help, both on the assigned list and on extra practice problems.
-
-## Weekly Exercise
+## Weekly Quizzes
 
 0. [0](https://colab.research.google.com/drive/1xPnZ1bx4KSJOl0ysBf1sUU6kKpC5QY_K#scrollTo=f-qH4FYZGtpm) 
-
-## Extra links
-<!-- 1. Embracing the command line: my unexpected career in computational biology, [link](https://divingintogeneticsandgenomics.com/publication/2023-10-04-nature-career/) -->
