@@ -179,8 +179,8 @@ These must be submitted in person to the teaching assistant (monitor) by the end
 Alternative submission: If you cannot submit in person, you may leave your work in the mailbox located in the main office, specifically in the Dr. Vargas-Hernandez folder. Ensure your name, student ID, and tutorial number are clearly written on the submission.
 3.	Combined Math and Coding Exercises:
 For these exercises, you must complete both parts:
-o	Coding Part: Email your code to decamara@mcmaster.ca, using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.
-o	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be left in the Dr. Vargas-Hernandez folder in the main office mailbox.
+-   Coding Part: Email your code to decamara@mcmaster.ca, using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.
+-	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be left in the Dr. Vargas-Hernandez folder in the main office mailbox.
 Both parts must be submitted by the deadline for your work to be considered complete.
 
 ## Weekly Quizzes
