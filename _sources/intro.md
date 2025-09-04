@@ -106,7 +106,7 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 ## Coding in class
 1. Introduction to Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_python.ipynb
-)
+)t
 <!-- 1. Introduction to derivatives and integrals <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/derivatives_and_integrals.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!--   </a> -->
