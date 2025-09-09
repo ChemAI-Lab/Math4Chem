@@ -165,6 +165,11 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!-- </a> -->
 
+## Weekly Quizzes
+
+1. [Quiz 1]([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_1.ipynb) 
+
 ## Weekly Quizzes Instructions 
 A new list of quizzes will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
 
@@ -184,7 +189,3 @@ For these exercises, you must complete both parts:
 -	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be left in the Dr. Vargas-Hernandez folder in the main office mailbox.
 
 Both parts must be submitted by the deadline for your work to be considered complete.
-
-## Weekly Quizzes
-
-0. [Quiz 0](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_0.ipynb) 
