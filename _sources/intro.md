@@ -170,7 +170,9 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 ## Weekly Quizzes
 
 1. Quiz 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_1.ipynb) **Deadline:** 16 September 2025, 2:20 PM
-**Comments** 
+
+**Comments**: 
+ 
 For question 4, you do not necessarily need to use Python's sum function.
 
 ## Weekly Quizzes Instructions 
