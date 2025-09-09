@@ -169,7 +169,7 @@ https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/
 
 ## Weekly Quizzes
 
-1. # Quiz 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_1.ipynb)
+1. Quiz 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_1.ipynb) **Deadline:** 16 September 2025, 2:20 PM
 
 ## Weekly Quizzes Instructions 
 A new list of quizzes will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
