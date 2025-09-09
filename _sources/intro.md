@@ -147,7 +147,7 @@ https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/
 
 The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 
-1. Python Introduction [[pdf]](https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/EZSzxWoaF_VAtbZCemy72o0BxKPC77sKhdumcsmMjR1cTA?e=bgg87y) 
+1. Python Introduction [[pdf]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Tutorial_Presentation/First_Tutorial_3PC3.pdf) 
 <!--    **Coding**  -->
 <!--    1. Alternating Series <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Jupyter_files/Alternating_series.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
