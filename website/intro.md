@@ -49,13 +49,12 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 
 ## Classes 
 <!-- The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on Tuesdays 1:30PM - 2:20PM.  -->
-<!--  -->
-<!-- 0. Introduction to the course: [[Notes]](https://mcmasteru365-my.sharepoint.com/:b:/g/personal/decamara_mcmaster_ca/Edxb3JyeUJpJuQCnSWo8w9MBglufbTDnhRpKRupqHSSNqA?e=qeQxw1) -->
-<!--  -->
-<!-- 1. Introduction to Derivatives [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf)<br> -->
-<!--    **Additional of References** -->
-<!--    1. Chapter 1, Physical Chemistry, Ira N. Levine. -->
-<!--    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie. -->
+
+1. Introduction to the course: [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Lecture_1.pdf)
+2. Introduction to Derivatives [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf)<br> 
+   **Additional of References**
+   1. Chapter 1, Physical Chemistry, Ira N. Levine.
+   2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
 <!--  -->
 <!-- 2. Introduction to Integrals [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Integral_notes.pdf)<br> -->
 <!--    **Additional of References** -->
@@ -105,6 +104,9 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 **** 
 
 ## Coding in class
+1. Introduction to Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_python.ipynb
+)t
 <!-- 1. Introduction to derivatives and integrals <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/derivatives_and_integrals.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!--   </a> -->
