@@ -180,17 +180,15 @@ A new list of quizzes will be provided each tutorial. These exercises are to be 
 
 There are three types of quizzes, each with its own submission method. Please follow these instructions carefully to ensure your work is accepted.
 1.	Coding Quizzes:
-These must be submitted electronically by email to decamara@mcmaster.ca.
-Important: You must use the following naming template for your submission file:
+These must be submitted electronically by email to decamara@mcmaster.ca.<br>
+**Important:** You must use the following naming template for your submission file:
 STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb
 (e.g., SMITH_001234567_QUIZ_2.ipynb).
-2.	Exercises with Mathematical Calculations (Pencil and Paper):
+2.	Exercises with Mathematical Calculations (Pencil and Paper):<br>
 These must be submitted in person to the teaching assistant (monitor) by the end of the tutorial section in which they are due.
 Alternative submission: If you cannot submit in person, you may leave your work in the mailbox located in the main office, specifically in the Dr. Vargas-Hernandez folder. Ensure your name, student ID, and tutorial number are clearly written on the submission.
-3.	Combined Math and Coding Exercises:
-
-For these exercises, you must complete both parts:
--   Coding Part: Email your code to decamara@mcmaster.ca, using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb.
--	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be left in the Dr. Vargas-Hernandez folder in the main office mailbox.
-
-Both parts must be submitted by the deadline for your work to be considered complete.
+3.	Combined Math and Coding Exercises:<br>
+   For these exercises, you must complete both parts:
+      -   Coding Part: Email your code to decamara@mcmaster.ca, using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb.
+      -	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be left in the Dr. Vargas-Hernandez folder in the main office mailbox.
+      - Both parts must be submitted by the deadline for your work to be considered complete.
