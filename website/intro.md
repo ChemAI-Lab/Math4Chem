@@ -107,8 +107,10 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
 1. Introduction to Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_python.ipynb
 )
-<!-- 1. Introduction to derivatives and integrals <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/derivatives_and_integrals.ipynb"> -->
-<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+2. Introduction to derivatives and integrals: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/derivatives_and_integrals.ipynb
+)
+
 <!--   </a> -->
 <!-- 2. Introduction to Thermodynamics <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/intro_thermo.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
@@ -171,26 +173,22 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 
 1. Quiz 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_1.ipynb) **Deadline:** 16 September 2025, 2:20 PM
 
-**Comments**: 
- 
-For question 4, you do not necessarily need to use Python's sum function.
+   **Comments**: For question 4, you do not necessarily need to use Python's sum function.
 
 ## Weekly Quizzes Instructions 
 A new list of quizzes will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
 
 There are three types of quizzes, each with its own submission method. Please follow these instructions carefully to ensure your work is accepted.
 1.	Coding Quizzes:
-These must be submitted electronically by email to decamara@mcmaster.ca.
-Important: You must use the following naming template for your submission file:
+These must be submitted electronically by email to decamara@mcmaster.ca.<br>
+**Important:** You must use the following naming template for your submission file:
 STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb
 (e.g., SMITH_001234567_QUIZ_2.ipynb).
-2.	Exercises with Mathematical Calculations (Pencil and Paper):
+2.	Exercises with Mathematical Calculations (Pencil and Paper):<br>
 These must be submitted in person to the teaching assistant (monitor) by the end of the tutorial section in which they are due.
 Alternative submission: If you cannot submit in person, you may leave your work in the mailbox located in the main office, specifically in the Dr. Vargas-Hernandez folder. Ensure your name, student ID, and tutorial number are clearly written on the submission.
-3.	Combined Math and Coding Exercises:
-
-For these exercises, you must complete both parts:
--   Coding Part: Email your code to decamara@mcmaster.ca, using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb.
--	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be left in the Dr. Vargas-Hernandez folder in the main office mailbox.
-
-Both parts must be submitted by the deadline for your work to be considered complete.
+3.	Combined Math and Coding Exercises:<br>
+   For these exercises, you must complete both parts:
+      -   Coding Part: Email your code to decamara@mcmaster.ca, using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb.
+      -	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be left in the Dr. Vargas-Hernandez folder in the main office mailbox.
+      - Both parts must be submitted by the deadline for your work to be considered complete.
