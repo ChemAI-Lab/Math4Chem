@@ -30,10 +30,10 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 <!--   Print the following file and answer the questions, [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/quiz2.pdf)<br> -->
 <!--   (You can hand it before the final exam. If your are an ASA student, drop your Quiz in CCB's main office mailbox. I will not accept any Quiz2 once the final exam starts.)<br> -->
 <!--   -->
-<!-- * **Midterm**, Oct 24 in class, bring your calculator. -->
+* **Midterm**, Oct 30 in class, bring your calculator.
 <!--   * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf) -->
 <!--   * **Midterm answers** [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_1_answer_key.pdf) -->
-<!-- * **Assignment 1**, due to Oct 24.  -->
+* **Assignment 1**, due to Oct 23. 
 <!--   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_1.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!--   </a> -->
@@ -41,26 +41,26 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!-- </a> -->
 <!--  -->
-<!-- * **Assignment 2**, due to Dec 6.  -->
+* **Assignment 2**, due to Dec 4. 
 <!--   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_2.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!-- </a> -->
 <!-- ![Dates](Icons_config/MidTerm_date.jpeg) -->
 
 ## Classes 
-<!-- The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on Tuesdays 1:30PM - 2:20PM.  -->
+The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 8:30AM - 10:20AM. 
 
 1. Introduction to the course: [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Lecture_1.pdf)
 2. Introduction to Derivatives [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf)<br> 
    **Additional of References**
    1. Chapter 1, Physical Chemistry, Ira N. Levine.
    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
-<!--  -->
-<!-- 2. Introduction to Integrals [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Integral_notes.pdf)<br> -->
-<!--    **Additional of References** -->
-<!--    1. Chapter 1, Physical Chemistry, Ira N. Levine. -->
-<!--    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie. -->
-<!--  -->
+
+3. Introduction to Integrals [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Integral_notes.pdf)<br>
+   **Additional of References**
+   1. Chapter 1, Physical Chemistry, Ira N. Levine.
+   2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
+
 <!-- 3. Introduction to Thermodynamics [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Intro_thermodynamics_notes.pdf)<br>  -->
 <!--    **Additional of References** -->
 <!--    1. Chapters 1 and 2, Physical Chemistry, Ira N. Levine. -->
@@ -107,8 +107,10 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 1. Introduction to Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_python.ipynb
 )
-<!-- 1. Introduction to derivatives and integrals <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/derivatives_and_integrals.ipynb"> -->
-<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+2. Introduction to derivatives and integrals: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/derivatives_and_integrals.ipynb
+)
+
 <!--   </a> -->
 <!-- 2. Introduction to Thermodynamics <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/intro_thermo.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
@@ -147,7 +149,8 @@ https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/
 
 The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 
-1. Python Introduction [[pdf]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Tutorial_Presentation/First_Tutorial_3PC3.pdf) 
+1. Python Introduction: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/First_Tutorial_3PC3.pptx?raw=true)
+2. Python Functions and derivatives: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/Second_Tutorial_3PC3.pptx?raw=true)
 <!--    **Coding**  -->
 <!--    1. Alternating Series <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Jupyter_files/Alternating_series.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
@@ -170,25 +173,24 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 ## Weekly Quizzes
 
 1. Quiz 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_1.ipynb) **Deadline:** 16 September 2025, 2:20 PM
-**Comments** 
-For question 4, you do not necessarily need to use Python's sum function.
 
+   **Comments**: For question 4, you do not necessarily need to use Python's sum function.
+
+2. Quiz 2: [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_2.pdf) **Deadline:** 23 September 2025, 2:20 PM
 ## Weekly Quizzes Instructions 
 A new list of quizzes will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
 
 There are three types of quizzes, each with its own submission method. Please follow these instructions carefully to ensure your work is accepted.
 1.	Coding Quizzes:
-These must be submitted electronically by email to decamara@mcmaster.ca.
-Important: You must use the following naming template for your submission file:
+These must be submitted electronically by email to decamara@mcmaster.ca.<br>
+**Important:** You must use the following naming template for your submission file:
 STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb
 (e.g., SMITH_001234567_QUIZ_2.ipynb).
-2.	Exercises with Mathematical Calculations (Pencil and Paper):
-These must be submitted in person to the teaching assistant (monitor) by the end of the tutorial section in which they are due.
+2.	Exercises with Mathematical Calculations (Pencil and Paper):<br>
+These will be uploaded as PDF files. It is your responsibility to download and print them. You must write your full name and student number on the cover page. Submissions without this identification will not be accepted. These must be submitted in person to the teaching assistant (monitor) by the end of the tutorial section in which they are due.
 Alternative submission: If you cannot submit in person, you may leave your work in the mailbox located in the main office, specifically in the Dr. Vargas-Hernandez folder. Ensure your name, student ID, and tutorial number are clearly written on the submission.
-3.	Combined Math and Coding Exercises:
-
-For these exercises, you must complete both parts:
--   Coding Part: Email your code to decamara@mcmaster.ca, using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb.
--	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be left in the Dr. Vargas-Hernandez folder in the main office mailbox.
-
-Both parts must be submitted by the deadline for your work to be considered complete.
+3.	Combined Math and Coding Exercises:<br>
+   For these exercises, you must complete both parts:
+      -   Coding Part: Email your code to decamara@mcmaster.ca, using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb.
+      -	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be left in the Dr. Vargas-Hernandez folder in the main office mailbox.
+      - Both parts must be submitted by the deadline for your work to be considered complete.
