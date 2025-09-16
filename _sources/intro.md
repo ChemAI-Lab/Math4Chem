@@ -30,10 +30,10 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 <!--   Print the following file and answer the questions, [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/quiz2.pdf)<br> -->
 <!--   (You can hand it before the final exam. If your are an ASA student, drop your Quiz in CCB's main office mailbox. I will not accept any Quiz2 once the final exam starts.)<br> -->
 <!--   -->
-* **Midterm**, Oct 30 in class, bring your calculator.
+<!-- * **Midterm**, Oct 24 in class, bring your calculator. -->
 <!--   * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf) -->
 <!--   * **Midterm answers** [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_1_answer_key.pdf) -->
-* **Assignment 1**, due to Oct 23. 
+<!-- * **Assignment 1**, due to Oct 24.  -->
 <!--   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_1.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!--   </a> -->
@@ -41,26 +41,26 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!-- </a> -->
 <!--  -->
-* **Assignment 2**, due to Dec 4. 
+<!-- * **Assignment 2**, due to Dec 6.  -->
 <!--   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_2.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!-- </a> -->
 <!-- ![Dates](Icons_config/MidTerm_date.jpeg) -->
 
 ## Classes 
-The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 8:30AM - 10:20AM. 
+<!-- The classes will be held in ABB 163 on Monday & Thursday 12:30PM - 1:20PM and on Tuesdays 1:30PM - 2:20PM.  -->
 
 1. Introduction to the course: [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Lecture_1.pdf)
 2. Introduction to Derivatives [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf)<br> 
    **Additional of References**
    1. Chapter 1, Physical Chemistry, Ira N. Levine.
    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
-<!--  -->
-<!-- 2. Introduction to Integrals [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Integral_notes.pdf)<br> -->
-<!--    **Additional of References** -->
-<!--    1. Chapter 1, Physical Chemistry, Ira N. Levine. -->
-<!--    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie. -->
-<!--  -->
+
+2. Introduction to Integrals [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Integral_notes.pdf)<br>
+   **Additional of References**
+   1. Chapter 1, Physical Chemistry, Ira N. Levine.
+   2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
+
 <!-- 3. Introduction to Thermodynamics [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Intro_thermodynamics_notes.pdf)<br>  -->
 <!--    **Additional of References** -->
 <!--    1. Chapters 1 and 2, Physical Chemistry, Ira N. Levine. -->
