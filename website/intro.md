@@ -177,6 +177,9 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
    **Comments**: For question 4, you do not necessarily need to use Python's sum function.
 
 2. Quiz 2: [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_2.pdf) **Deadline:** 23 September 2025, 2:20 PM
+
+   **Comments**: Only for question 1 that you **must** use the defintion of the derivative given by the limit.
+
 ## Weekly Quizzes Instructions 
 A new list of quizzes will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
 
