@@ -56,7 +56,7 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
    1. Chapter 1, Physical Chemistry, Ira N. Levine.
    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
 
-2. Introduction to Integrals [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Integral_notes.pdf)<br>
+3. Introduction to Integrals [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Integral_notes.pdf)<br>
    **Additional of References**
    1. Chapter 1, Physical Chemistry, Ira N. Levine.
    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
