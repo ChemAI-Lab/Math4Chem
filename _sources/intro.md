@@ -196,7 +196,7 @@ STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb
 (e.g., SMITH_001234567_QUIZ_2.ipynb).
 2.	Exercises with Mathematical Calculations (Pencil and Paper):<br>
 These will be uploaded as PDF files. It is your responsibility to download and print them. You must write your full name and student number on the cover page. Submissions without this identification will not be accepted. These must be submitted in person to the teaching assistant (monitor) by the end of the tutorial section in which they are due.
-**Alternative submission**: If you cannot submit in person, email me a single PDF file containing your scanned answers. Do not upload separate photos, merge them into one PDF, placing the exercise sheet as the first page. You can use [CamScanner](https://www.camscanner.com/download) to scan your photos and convert them into a PDF. Ensure your name, student ID, and tutorial number are clearly written on the submission.
+**Alternative submission**: If you want you can email me a single PDF file containing your scanned answers. Do not upload separate photos, merge them into one PDF, placing the exercise sheet as the first page. You can use [CamScanner](https://www.camscanner.com/download) to scan your photos and convert them into a PDF. Ensure your name, student ID, and tutorial number are clearly written on the submission.
 **Important:** If you are going to do the **Alternative submission**, you must use the following naming template for your submission file:
 STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.pdf
 (e.g., SMITH_001234567_QUIZ_2.pdf).
