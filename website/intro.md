@@ -180,6 +180,11 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 
    **Comments**: Only for question 1 that you **must** use the defintion of the derivative given by the limit.
 
+3. Quiz 3: [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_3.pdf)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_3.ipynb)  **Deadline:** 30 September 2025, 2:20 PM
+
+   **Comments**: This is a combined Math and Coding exercise.
+
 ## Weekly Quizzes Instructions 
 A new list of quizzes will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
 
