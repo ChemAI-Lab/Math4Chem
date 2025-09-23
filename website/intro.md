@@ -61,9 +61,9 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
    1. Chapter 1, Physical Chemistry, Ira N. Levine.
    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
 
-<!-- 3. Introduction to Thermodynamics [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Intro_thermodynamics_notes.pdf)<br>  -->
-<!--    **Additional of References** -->
-<!--    1. Chapters 1 and 2, Physical Chemistry, Ira N. Levine. -->
+3. Introduction to Thermodynamics [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Intro_thermodynamics_notes.pdf)<br> 
+   **Additional of References**
+   1. Chapters 1 and 2, Physical Chemistry, Ira N. Levine.
 <!--  -->
 <!-- 4. Introduction to Linear Algebra [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Introduction_Linear_Algebra.pdf)<br> -->
 <!--    **Additional of References** -->
