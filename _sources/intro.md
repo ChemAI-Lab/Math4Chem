@@ -183,7 +183,7 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 3. Quiz 3: [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_3.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_3.ipynb)  **Deadline:** 30 September 2025, 2:20 PM
 
-   **Comments**: This is a combined Math and Coding exercise.
+   **Comments**: This is a combined Math and Coding exercise. The assignment consists of two math questions (a, b, c, d) accessible via the PDF link, and two coding questions in the Google Colab notebook. To receive a full grade, you must complete all exercises and follow the submission instructions below.
 
 ## Weekly Quizzes Instructions 
 A new list of quizzes will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
@@ -196,9 +196,12 @@ STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb
 (e.g., SMITH_001234567_QUIZ_2.ipynb).
 2.	Exercises with Mathematical Calculations (Pencil and Paper):<br>
 These will be uploaded as PDF files. It is your responsibility to download and print them. You must write your full name and student number on the cover page. Submissions without this identification will not be accepted. These must be submitted in person to the teaching assistant (monitor) by the end of the tutorial section in which they are due.
-Alternative submission: If you cannot submit in person, you may leave your work in the mailbox located in the main office, specifically in the Dr. Vargas-Hernandez folder. Ensure your name, student ID, and tutorial number are clearly written on the submission.
+**Alternative submission**: If you cannot submit in person, email me a single PDF file containing your scanned answers. Do not upload separate photos, merge them into one PDF, placing the exercise sheet as the first page. You can use [CamScanner](https://www.camscanner.com/download) to scan your photos and convert them into a PDF. Ensure your name, student ID, and tutorial number are clearly written on the submission.
+**Important:** If you are going to do the **Alternative submission**, you must use the following naming template for your submission file:
+STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.pdf
+(e.g., SMITH_001234567_QUIZ_2.pdf).
 3.	Combined Math and Coding Exercises:<br>
    For these exercises, you must complete both parts:
       -   Coding Part: Email your code to decamara@mcmaster.ca, using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb.
-      -	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be left in the Dr. Vargas-Hernandez folder in the main office mailbox.
+      -	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be emailed to decamara@mcmaster.ca merged into one PDF using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.pdf. 
       - Both parts must be submitted by the deadline for your work to be considered complete.
