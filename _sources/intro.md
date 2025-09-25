@@ -213,3 +213,28 @@ STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.pdf
       -   Coding Part: Email your code to decamara@mcmaster.ca, using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.ipynb.
       -	Math Calculations Part: Submit your pencil and paper calculations in person during the tutorial session in which they are due. Alternatively, they may be emailed to decamara@mcmaster.ca merged into one PDF using the required file naming template: STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.pdf. 
       - Both parts must be submitted by the deadline for your work to be considered complete.
+
+## Weekly Quizzes Grades
+
+| Serial Number | QUIZ 1 (TOTAL = 10) | QUIZ 2 (TOTAL = 10) |
+| :--- | :--- | :--- |
+| 7X9B | N/A | 9 |
+| L83P | 10 | N/A |
+| Z4M2 | N/A | N/A |
+| 9JN1 | 10 | 10 |
+| K55H | 9.5 | 9 |
+| R8D3 | 10 | 9.9 |
+| 2F7Y | 10 | 10 |
+| M3B8 | 9 | 10 |
+| P61K | 10 | 9.9 |
+| W4U7 | 10 | 10 |
+| 0H4S | 10 | 10 |
+| G2V5 | 10 | 10 |
+| 3C9L | 10 | 10 |
+| D5T1 | 10 | 10 |
+| X8N0 | 10 | 10 |
+| 1Q7W | 10 | 10 |
+| J6R9 | 10 | 10 |
+| S3K5 | 10 | 10 |
+| 4E8B | 10 | 9 |
+| N2Y7 | N/A | N/A |
