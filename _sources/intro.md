@@ -219,7 +219,7 @@ STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.pdf
 | Serial Number | QUIZ 1 (TOTAL = 10) | QUIZ 2 (TOTAL = 10) |
 | :--- | :--- | :--- |
 | 7X9B | 10 | 9 |
-| L83P | 10 | N/A |
+| L83P | 10 | 10 |
 | Z4M2 | N/A | N/A |
 | 9JN1 | 10 | 10 |
 | K55H | 9.5 | 9 |
