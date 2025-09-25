@@ -106,8 +106,12 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
 ## Coding in class
 1. Introduction to Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_python.ipynb
+) <br>
+   **Answers**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/answers/intro_python.ipynb
 )
-2. Introduction to derivatives and integrals: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+
+1. Introduction to derivatives and integrals: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/derivatives_and_integrals.ipynb
 )
 
