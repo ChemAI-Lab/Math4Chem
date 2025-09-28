@@ -191,7 +191,10 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 3. Quiz 3: [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_3.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_3.ipynb)  **Deadline:** 30 September 2025, 2:20 PM
 
+   **Comments**: For the coding part of the quiz, it is recommended that you use the step size, h, to determine how to split the interval (0, 2).  
    **Comments**: This is a combined Math and Coding exercise. The assignment consists of two math questions (a, b, c, d) accessible via the PDF link, and two coding questions in the Google Colab notebook. To receive a full grade, you must complete all exercises and follow the submission instructions below.
+
+
 
 ## Weekly Quizzes Instructions 
 A new list of quizzes will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
