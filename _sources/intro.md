@@ -156,6 +156,8 @@ https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/
 
 The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 
+**Attention** There is no tutorial today, September 30. 
+
 1. Python Introduction: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/First_Tutorial_3PC3.pptx?raw=true)
 2. Python Functions and derivatives: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/Second_Tutorial_3PC3.pptx?raw=true)
 3. Continuation of Python Functions and derivatives: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/Third_Tutorial_3PC3.pptx?raw=true)
