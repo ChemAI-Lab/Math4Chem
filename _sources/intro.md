@@ -31,6 +31,11 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 <!--   (You can hand it before the final exam. If your are an ASA student, drop your Quiz in CCB's main office mailbox. I will not accept any Quiz2 once the final exam starts.)<br> -->
 <!--   -->
 * **Midterm**, Oct 30 in class, bring your calculator.
+   
+   **Time**: 8:00 AM to 10:30 AM 
+   
+   **Room**: ABB 165 
+
 <!--   * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf) -->
 <!--   * **Midterm answers** [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_1_answer_key.pdf) -->
 * **Assignment 1**, due to Oct 23. 
