@@ -14,7 +14,7 @@ parts:
       title: Basics of Numpy
   - caption: New
     chapters:
-    - file: Jupyter_files/jupyter.ipynb
+    - file: Jupyter_files/intro_old.md
       title: Basics of Python
       
     # - file: jupyter.ipynb
