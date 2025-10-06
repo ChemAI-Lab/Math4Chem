@@ -4,10 +4,6 @@
 format: jb-book
 root: intro.md
 parts:
-  - caption: Assignment 
-    chapters:
-    -file: Jupyter_files/Intro_py_to_calc.ipynb 
-    title: Assignment 1 
   - caption: Topics
     chapters:
     - file: Jupyter_files/Intro_py_to_calc.ipynb 
