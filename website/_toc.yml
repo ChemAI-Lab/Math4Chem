@@ -6,15 +6,15 @@ root: intro.md
 parts:
   - caption: Topics
     chapters:
-    - file: Jupyter_files/pyci_tutorial.ipynb
+    - file: Jupyter_files/Intro_py_to_calc.ipynb
       title: Basics of Python
     - file: Jupyter_files/Intro_to_sympy.ipynb
       title: Basics of SymPy 
     - file: Jupyter_files/Intro_to_numpy.ipynb
       title: Basics of Numpy
-  - caption: New
+  - caption: Assignments 
     chapters:
-    - file: Jupyter_files/intro_old.md
+    - file: Jupyter_files/assignments.md
       title: Basics of Python
       
     # - file: jupyter.ipynb
