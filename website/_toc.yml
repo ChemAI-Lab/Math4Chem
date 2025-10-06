@@ -25,3 +25,6 @@ parts:
     #   sections:
     #   - file: problems/GitHubLearn.md
     #     title: "Practice: GitHub"
+format: jb-book
+root: Assignment.md
+parts:
