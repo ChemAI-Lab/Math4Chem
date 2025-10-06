@@ -15,7 +15,7 @@ parts:
   - caption: Assignments 
     chapters:
     - file: Jupyter_files/assignments.md
-      title: Basics of Python
+      title: Python Assignments
       
     # - file: jupyter.ipynb
     #   title: Basics of Jupyter, Python, and Programming
