@@ -6,7 +6,7 @@ root: intro.md
 parts:
   - caption: Topics
     chapters:
-    - file: Jupyter_files/Assignment.mb
+    - file: Jupyter_files/pyci_tutorial.ipynb
       title: Basics of Python
     - file: Jupyter_files/Intro_to_sympy.ipynb
       title: Basics of SymPy 
