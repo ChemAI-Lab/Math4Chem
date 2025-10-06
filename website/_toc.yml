@@ -6,7 +6,7 @@ root: intro.md
 parts:
   - caption: Assignment 
     chapters:
-    -file: Jupyter_files/Assignment.md
+    -file: Jupyter_files/Intro_py_to_calc.ipynb 
     title: Assignment 1 
   - caption: Topics
     chapters:
