@@ -4,7 +4,10 @@
 format: jb-book
 root: intro.md
 parts:
-
+  - caption: Assignment 
+    chapters:
+    -file: /Users/alexandre/Projects/math4chem/Math4Chem/website/Assignment.md
+    title: Assignment 1 
   - caption: Topics
     chapters:
     - file: Jupyter_files/Intro_py_to_calc.ipynb 
@@ -25,6 +28,4 @@ parts:
     #   sections:
     #   - file: problems/GitHubLearn.md
     #     title: "Practice: GitHub"
-format: jb-book
-root: Assignment.md
-parts:
+
