@@ -1,14 +1,11 @@
-# Assignments (under construction)
-*instructions will be posted here soon! 
+# Assignments
 
-Welcome to the Python assignments section. Here you will find everything you need to successfully complete your coursework, including:
-- Detailed instructions for each assignment
-- Submission guidelines and deadlines
-- Helpful resources and tips
+# Assignment 1, Deadline Oct 24th 5:00 PM EST
+**Assignment 1** is composed of two parts,
+ 1. Coding  
+ 2. Mathematical
 
-# Assignment 1
-**Assignment 1** is composed of two parts, i) coding and ii) mathematical. <br>
-
+See the instructions bellow for each component of the assignment. 
 
 ## 1 Coding Part
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
