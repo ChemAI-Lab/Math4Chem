@@ -15,7 +15,11 @@ parts:
   - caption: Assignments 
     chapters:
     - file: Assignments/assignments_info.md
+<<<<<<< HEAD
       title: Python Assignments
+=======
+      title: Assignments
+>>>>>>> f35c7f7f22ab486af0b23d3686d0ecdbc345a8fc
       
     # - file: jupyter.ipynb
     #   title: Basics of Jupyter, Python, and Programming
