@@ -1,27 +1,26 @@
-# Assignments (under construction)
-*instructions will be posted here soon! 
+# Assignments
 
-Welcome to the Python assignments section. Here you will find everything you need to successfully complete your coursework, including:
-- Detailed instructions for each assignment
-- Submission guidelines and deadlines
-- Helpful resources and tips
+# Assignment 1, Deadline Oct 24th 5:00 PM EST
+**Assignment 1** is composed of two parts,
+ 1. Coding  
+ 2. Mathematical
 
-# Assignment 1
-**Assignment 1** is composed of two parts, i) coding and ii) mathematical. <br>
+See the instructions bellow for each component of the assignment. 
 
-For the **coding** part, please see the instructions bellow. 
+## 1 Coding Part
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_python.ipynb) 
 
-Students Groups
+**Instructions**
+* The **coding** part its by pairs (see list bellow) and a single file with both students' info must be emailed to the TA. <br>
+  
+### Groups
+(soon to be posted)
 
+## 2 Mathematical Part
+ [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_3.pdf)
 
-**Coding part** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_python.ipynb
-) 
-
-For the **mathematical** part, it must be emailed or hand in (main office) and its individual. 
-
-**Assignment Mathematical part**: [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_3.pdf)
-
-
+**Instructions** <br>
+* The **mathematical** part its individual and it must be emailed or hand in (main office). 
 
 # Assignment 2 (soon!)
