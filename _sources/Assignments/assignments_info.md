@@ -15,7 +15,7 @@ https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/
 
 **Groups**
 
-## 2 Assignment Mathematical part
+## 2 Mathematical part
  [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_3.pdf)
 
 The **mathematical** part its individual and it must be emailed or hand in (main office). 
