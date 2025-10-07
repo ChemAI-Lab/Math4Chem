@@ -14,7 +14,7 @@ parts:
       title: Basics of Numpy
   - caption: Assignments 
     chapters:
-    - file: Jupyter_files/assignments.md
+    - file: Assignments/assignments_info.md
       title: Python Assignments
       
     # - file: jupyter.ipynb
