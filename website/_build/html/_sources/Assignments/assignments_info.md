@@ -1,4 +1,4 @@
-# Python Assignments (under construction)
+# Assignments (under construction)
 *instructions will be posted here soon! 
 
 Welcome to the Python assignments section. Here you will find everything you need to successfully complete your coursework, including:
@@ -23,3 +23,5 @@ For the **mathematical** part, it must be emailed or hand in (main office) and i
 **Assignment Mathematical part**: [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_3.pdf)
 
 
+
+# Assignment 2 (soon!)
