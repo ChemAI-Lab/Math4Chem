@@ -13,7 +13,9 @@ https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/
 
 **Instructions**
 * The **coding** part its by pairs (see list bellow) and a single file with both students' info must be emailed to the TA. <br>
-**Groups**
+  
+### Groups
+(soon to be posted)
 
 ## 2 Mathematical Part
  [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_3.pdf)
