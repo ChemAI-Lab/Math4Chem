@@ -8,7 +8,7 @@ Instruction on the associated programming skills will be provided in tutorials.
 
 ## Outline
 
-The outline of the course can be found [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/outline_F2025.pdf)
+The outline of the course can be found [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/outline_F2025.pdf)
 
 ## Resources 
 
@@ -54,27 +54,27 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 8:30AM - 10:20AM. 
 
 1. Introduction to the course: <br>
-   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Lecture_1.pdf)
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Lecture_1.pdf)
 
 2. Introduction to Derivatives <br>
-   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf)<br> 
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf)<br> 
    **Additional of References**
    1. Chapter 1, Physical Chemistry, Ira N. Levine.
    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
 
 3. Introduction to Integrals <br>
-   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Integral_notes.pdf)<br>
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Integral_notes.pdf)<br>
    **Additional of References**
    1. Chapter 1, Physical Chemistry, Ira N. Levine.
    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
 
 4. Introduction to Thermodynamics <br>
-   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Intro_thermodynamics_notes.pdf)<br> 
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Intro_thermodynamics_notes.pdf)<br> 
    **Additional of References**
    1. Chapters 1 and 2, Physical Chemistry, Ira N. Levine.
 
 5. Introduction to Linear Algebra <br>
-   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Introduction_Linear_Algebra.pdf)<br> 
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Introduction_Linear_Algebra.pdf)<br> 
    **Additional of References**
    1. Chapter 13, Mathematics for Physical Chemistry, Donald A. McQuarrie.
    2. Chapter 1, Linear Algebra with applications, Gareth Williams.
