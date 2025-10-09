@@ -76,9 +76,8 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
    **Additional of References**
    1. Chapters 1 and 2, Physical Chemistry, Ira N. Levine.
 
-4. Introduction to Linear Algebra <br>
+5. Introduction to Linear Algebra <br>
    [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Introduction_Linear_Algebra.pdf)<br> 
-
    **Additional of References**
    1. Chapter 13, Mathematics for Physical Chemistry, Donald A. McQuarrie.
    2. Chapter 1, Linear Algebra with applications, Gareth Williams.
