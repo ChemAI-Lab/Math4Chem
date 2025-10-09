@@ -22,4 +22,4 @@ See the instructions bellow for each component of the assignment.
 **Instructions** <br>
 * The **mathematical** part its individual and it must be emailed or hand in (main office). 
 
-# Assignment 2 (soon!)
+<!-- # Assignment 2 (soon!) -->
