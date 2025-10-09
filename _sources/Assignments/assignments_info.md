@@ -16,8 +16,8 @@ See the instructions bellow for each component of the assignment.
 ### Groups
 | Pair | Student 1 | Student 2 |
 | :--- | :--- | :--- |
-| 1 | Gallo,Sofia Maria-Theresa | Mei,Flora |
-| 2 | Fox,Anna May Luisa | Fung,Jace |
+| 1 | Fox,Anna May Luisa | Fung,Jace |
+| 2 | Gallo,Sofia Maria-Theresa | Mei,Flora |
 | 3 | Eesan,Atish | Ng,Yan Hei |
 | 4 | Aissaoui,Raouf | Rakib,Rayna |
 | 5 | Yang,Shawn | Ferguson,Madeline Viktoria |
