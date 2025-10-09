@@ -5,5 +5,9 @@
 
 ## Practice
 The following file contains some practice questions 
+<<<<<<< HEAD
    [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Midterm/midterm_practice_material.pdf)
    
+=======
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Midterm/midterm_practice_materia.pdf)
+>>>>>>> 28233f6b539c4da4d232a22b8e402a42d892a1a0
