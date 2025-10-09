@@ -8,7 +8,7 @@
 See the instructions bellow for each component of the assignment. 
 
 ## 1 Coding Part
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assignment1.ipynb) 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assignment1.ipynb) 
 
 **Instructions**
 * The **coding** part its by pairs (see list bellow) and a single file with both students' info must be emailed to the TA. <br>
