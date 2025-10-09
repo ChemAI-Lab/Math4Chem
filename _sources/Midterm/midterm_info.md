@@ -4,5 +4,5 @@
 * **Room**: ABB 165 
 
 ## Practice
-The following file contains some practice questions 
-[![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Midterm/midterm_practice_material.pdf)
+The following file contains some practice questions <br>
+[![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Midterm/midterm_practice_material.pdf) <br>
