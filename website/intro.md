@@ -32,6 +32,7 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 * **Midterm**, Oct 30 in class, bring your calculator.
    **Time**: 8:00 AM to 10:30 AM 
    **Room**: ABB 165 
+   **Resources**: [link](https://chemai-lab.github.io/Math4Chem/Midterm/midterm_info.html)
 
 <!--   * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf) -->
 <!--   * **Midterm answers** [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_1_answer_key.pdf) -->
