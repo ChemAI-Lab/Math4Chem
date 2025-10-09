@@ -8,8 +8,7 @@ Instruction on the associated programming skills will be provided in tutorials.
 
 ## Outline
 
-The outline of the course can be found [here](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/outline_F2025.pdf) 
-
+The outline of the course can be found [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/outline_F2025.pdf)
 
 ## Resources 
 
@@ -29,16 +28,14 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 <!-- * **Quiz 2**, due to Dec 6.  <br> -->
 <!--   Print the following file and answer the questions, [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/quiz2.pdf)<br> -->
 <!--   (You can hand it before the final exam. If your are an ASA student, drop your Quiz in CCB's main office mailbox. I will not accept any Quiz2 once the final exam starts.)<br> -->
-<!--   -->
 * **Midterm**, Oct 30 in class, bring your calculator.
-   
-   **Time**: 8:00 AM to 10:30 AM 
-   
-   **Room**: ABB 165 
+   * **Time**: 8:00 AM to 10:30 AM 
+   * **Room**: ABB 165 
+   * **Resources**: [link](https://chemai-lab.github.io/Math4Chem/Midterm/midterm_info.html)
 
 <!--   * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf) -->
 <!--   * **Midterm answers** [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_1_answer_key.pdf) -->
-* **Assignment 1**, due to Oct 23. 
+* **Assignment 1**, due to Oct 24th 5:00 PM EST. 
   * Info: [link](https://chemai-lab.github.io/Math4Chem/Assignments/assignments_info.html)
 <!--   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_1.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
@@ -75,12 +72,13 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
    [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Intro_thermodynamics_notes.pdf)<br> 
    **Additional of References**
    1. Chapters 1 and 2, Physical Chemistry, Ira N. Levine.
-<!--  -->
-<!-- 4. Introduction to Linear Algebra [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Introduction_Linear_Algebra.pdf)<br> -->
-<!--    **Additional of References** -->
-<!--    1. Chapter 13, Mathematics for Physical Chemistry, Donald A. McQuarrie. -->
-<!--    2. Chapter 1, Linear Algebra with applications, Gareth Williams. -->
-<!--  -->
+
+5. Introduction to Linear Algebra <br>
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Introduction_Linear_Algebra.pdf)<br> 
+   **Additional of References**
+   1. Chapter 13, Mathematics for Physical Chemistry, Donald A. McQuarrie.
+   2. Chapter 1, Linear Algebra with applications, Gareth Williams.
+
 <!-- 5. Introduction to Linear Regression [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Linear_Regression.pdf)<br> -->
 <!--    **Additional of References** <br> -->
 <!--    1. Chapter 1 and 6, Linear Algebra with applications, Gareth Williams. -->
@@ -115,27 +113,17 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
 **** 
 
 ## Coding in class
-1. Introduction to Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_python.ipynb
-) <br>
-   **Answers**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/answers/intro_python.ipynb
-)
+1. Introduction to Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_python.ipynb) <br>
+   **Answers**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/answers/intro_python.ipynb)
 
-2. Introduction to derivatives and integrals: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/derivatives_and_integrals.ipynb
-)<br>
-   **Answers**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/answers/derivatives_and_integrals.ipynb
-)
+2. Introduction to derivatives and integrals: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/derivatives_and_integrals.ipynb) <br>
+   **Answers**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/answers/derivatives_and_integrals.ipynb)
 
-3. Introduction to Thermodynamics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_thermo.ipynb
-)
+3. Introduction to Thermodynamics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_thermo.ipynb) <br>
+   **Answer**:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_thermo.ipynb)
 
-<!-- 3. Introduction to Linear Algebra <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/intro_linear_algebra.ipynb"> -->
-<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
-<!--   </a> -->
+4. Introduction to Linear Algebra: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_linear_algebra.ipynb)
+
 <!-- 4. Matrix operations <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/matrix_operations.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!--   </a> -->
@@ -202,18 +190,19 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 2. Quiz 2: **Deadline:** 23 September 2025, 2:20 PM <br>
    [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_2.pdf) 
 
-   **Comments**: Only for question 1 that you **must** use the defintion of the derivative given by the limit.
+   **Comments**: Only for question 1 that you **must** use the definition of the derivative given by the limit.
 
 3. Quiz 3: **Deadline:** 30 September 2025, 2:20 PM <br>
    [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_3.pdf) <br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_3.ipynb)  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_3.ipynb)  
 
    **Comments**: 
    * For the coding part of the quiz, it is recommended that you use the step size, h, to determine how to split the interval (0, 2).  
    * This is a combined Math and Coding exercise. The assignment consists of two math questions (a, b, c, d) accessible via the PDF link, and two coding questions in the Google Colab notebook. To receive a full grade, you must complete all exercises and follow the submission instructions below.
 
-4. Quiz 4: [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_4.pdf)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_4.ipynb)  **Deadline:** 14 October 2025, 2:20 PM
+4. Quiz 4:   **Deadline:** 14 October 2025, 2:20 PM <br>
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_4.pdf) <br>
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_4.ipynb)
 
 
 ## Weekly Quizzes Instructions 

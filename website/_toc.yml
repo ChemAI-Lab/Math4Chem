@@ -16,6 +16,10 @@ parts:
     chapters:
     - file: Assignments/assignments_info.md
       title: Assignments
+  - caption: Midterm 
+    chapters:
+    - file: Midterm/midterm_info.md
+      title: Midterm
       
     # - file: jupyter.ipynb
     #   title: Basics of Jupyter, Python, and Programming
