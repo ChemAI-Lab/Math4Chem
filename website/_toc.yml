@@ -18,7 +18,7 @@ parts:
       title: Assignments
   - caption: Midterm 
     chapters:
-    - file: Midterm/Midterm_info.md
+    - file: Midterm/midterm_info.md
       title: Midterm
       
     # - file: jupyter.ipynb
