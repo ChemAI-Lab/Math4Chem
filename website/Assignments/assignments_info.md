@@ -2,7 +2,8 @@
 
 # Attention there is an extension on the Assignment 1 
 
-# Assignment 1 — New Deadline: October 25th, at midnight (EST)
+# Assignment 1 — New Deadline: Oct 26th 11:59 PM EST.
+
 **Assignment 1** is composed of two parts,
  1. Coding  
  2. Mathematical
@@ -34,5 +35,4 @@ See the instructions bellow for each component of the assignment.
 
 **Instructions** <br>
 * The **mathematical** part its individual and it must be emailed or hand in (main office). 
-
 <!-- # Assignment 2 (soon!) -->
