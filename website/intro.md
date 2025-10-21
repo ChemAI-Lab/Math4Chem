@@ -35,7 +35,7 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 
 <!--   * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf) -->
 <!--   * **Midterm answers** [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_1_answer_key.pdf) -->
-* **Assignment 1**, due to Oct 26th 11:59 PM EST. 
+* **Assignment 1**, due to **Oct 26th 11:59 PM EST**. 
   * Info: [link](https://chemai-lab.github.io/Math4Chem/Assignments/assignments_info.html)
 <!--   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_1.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
