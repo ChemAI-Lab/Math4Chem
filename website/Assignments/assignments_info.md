@@ -2,7 +2,7 @@
 
 # Attention there is an extension on the Assignment 1 
 
-# Assignment 1 — New Deadline: Oct 26th 11:59 PM EST.
+## New Deadline: Oct 26th 11:59 PM EST.
 
 **Assignment 1** is composed of two parts,
  1. Coding  
