@@ -11,3 +11,5 @@ The following file contains some practice questions
 **Room**: ABB 266 <br>
 * Monday (**Oct/20**) 11:00 AM to 12:30 PM
 * Wednesday (**Oct/22**) 10:30 AM to 12:30 PM
+* * Monday (**Oct/27**) 11:00 AM to 12:30 PM
+* Wednesday (**Oct/29**) 10:30 AM to 12:30 PM
