@@ -31,9 +31,9 @@ See the instructions bellow for each component of the assignment.
 | 10 |Bolliger,Cohen Parry | Zhang,Jason | 
 
 ## 2 Mathematical Part
-[![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/main/website/Assignments/assigment1_math.pdf)
+[![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Assignments/assigment1_math.pdf)
 ## Hints 
-[![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/main/website/Assignments/Assigment_1_Hints.pdf)
+[![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Assignments/Assigment_1_Hints.pdf)
 
 **Instructions** <br>
 * The **mathematical** part its individual and it must be emailed or hand in (main office). 
