@@ -162,7 +162,8 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 1. Python Introduction: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/First_Tutorial_3PC3.pptx?raw=true)
 2. Python Functions and derivatives: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/Second_Tutorial_3PC3.pptx?raw=true)
 3. Continuation of Python Functions and derivatives: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/Third_Tutorial_3PC3.pptx?raw=true)
-3. Numerical Integration: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/Forth_Tutorial_3PC3.pptx?raw=true)
+4. Numerical Integration: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/Forth_Tutorial_3PC3.pptx?raw=true)
+5. Linear Algebra: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/Linear_Algebra.ipynb)
 <!--    **Coding**  -->
 <!--    1. Alternating Series <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Jupyter_files/Alternating_series.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
@@ -205,6 +206,9 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 4. Quiz 4:   **Deadline:** 14 October 2025, 2:20 PM <br>
    [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_4.pdf) <br>
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_4.ipynb)
+
+4. Quiz 5:   **Deadline:** 4 November 2025, 2:20 PM <br>
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_5.pdf) <br>
 
 
 ## Weekly Quizzes Instructions 
