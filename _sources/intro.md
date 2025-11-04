@@ -8,7 +8,7 @@ Instruction on the associated programming skills will be provided in tutorials.
 
 ## Outline
 
-The outline of the course can be found [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/outline_F2025.pdf)
+The outline of the course can be found [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/outline_F2025.pdf)
 
 ## Resources 
 
@@ -35,7 +35,7 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 
 <!--   * Practice questions [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_practice_material.pdf) -->
 <!--   * **Midterm answers** [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_1_answer_key.pdf) -->
-* **Assignment 1**, due to **Oct 26th 11:59 PM EST**. 
+* **Assignment 1**, due to Oct 24th 5:00 PM EST. 
   * Info: [link](https://chemai-lab.github.io/Math4Chem/Assignments/assignments_info.html)
 <!--   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_1.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
@@ -54,27 +54,27 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 8:30AM - 10:20AM. 
 
 1. Introduction to the course: <br>
-   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Lecture_1.pdf)
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Lecture_1.pdf)
 
 2. Introduction to Derivatives <br>
-   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf)<br> 
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Derivatives_notes.pdf)<br> 
    **Additional of References**
    1. Chapter 1, Physical Chemistry, Ira N. Levine.
    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
 
 3. Introduction to Integrals <br>
-   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Integral_notes.pdf)<br>
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Integral_notes.pdf)<br>
    **Additional of References**
    1. Chapter 1, Physical Chemistry, Ira N. Levine.
    2. Chapter 1, Mathematics for Physical Chemistry, Donald A. McQuarrie.
 
 4. Introduction to Thermodynamics <br>
-   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Intro_thermodynamics_notes.pdf)<br> 
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Intro_thermodynamics_notes.pdf)<br> 
    **Additional of References**
    1. Chapters 1 and 2, Physical Chemistry, Ira N. Levine.
 
 5. Introduction to Linear Algebra <br>
-   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Introduction_Linear_Algebra.pdf)<br> 
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Introduction_Linear_Algebra.pdf)<br> 
    **Additional of References**
    1. Chapter 13, Mathematics for Physical Chemistry, Donald A. McQuarrie.
    2. Chapter 1, Linear Algebra with applications, Gareth Williams.
@@ -122,13 +122,11 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
 3. Introduction to Thermodynamics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_thermo.ipynb) <br>
    **Answer**:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_thermo.ipynb)
 
-4. Introduction to Linear Algebra: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_linear_algebra.ipynb) <br>
-   **Answer**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/answers/intro_linear_algebra.ipynb)
+4. Introduction to Linear Algebra: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/intro_linear_algebra.ipynb)
 
-5. Matrix operations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/matrix_operations.ipynb)
-
-6. Linear models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/linear_models.ipynb)
-   
+<!-- 4. Matrix operations <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/matrix_operations.ipynb"> -->
+<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
+<!--   </a> -->
 <!-- 5. Linear Regression <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/linear_regression.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
 <!--   </a> -->
@@ -162,9 +160,7 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 1. Python Introduction: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/First_Tutorial_3PC3.pptx?raw=true)
 2. Python Functions and derivatives: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/Second_Tutorial_3PC3.pptx?raw=true)
 3. Continuation of Python Functions and derivatives: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/Third_Tutorial_3PC3.pptx?raw=true)
-4. Numerical Integration: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/Forth_Tutorial_3PC3.pptx?raw=true)
-5. Linear Algebra: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Tutorial_Presentation/Linear_Algebra.ipynb)
-[![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/lin_alg.pptx?raw=true)
+3. Numerical Integration: [![Download PPT](https://img.shields.io/badge/Download-PowerPoint-orange)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Tutorial_Presentation/Forth_Tutorial_3PC3.pptx?raw=true)
 <!--    **Coding**  -->
 <!--    1. Alternating Series <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Jupyter_files/Alternating_series.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
@@ -208,9 +204,6 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
    [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_4.pdf) <br>
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_4.ipynb)
 
-4. Quiz 5:   **Deadline:** 4 November 2025, 2:20 PM <br>
-   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_5.pdf) <br>
-
 
 ## Weekly Quizzes Instructions 
 A new list of quizzes will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
@@ -235,25 +228,25 @@ STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.pdf
 
 ## Weekly Quizzes Grades
 
-| Serial Number | QUIZ 1 (10) | QUIZ 2 (10) |QUIZ 3 (10) | QUIZ 4 (10) |
-| :--- | :--- | :--- | :--- | :--- |
-| 7X9B | 10 | 9 | 8.6 | 9 |
-| L83P | 10 | 10 | 10 | 10 |
-| Z4M2 | N/A | N/A | N/A | N/A |
-| 9JN1 | 10 | 10 | 9.8 | 10 | 
-| K55H | 9.5 | 9 | 9.9 | 10 | 
-| R8D3 | 10 | 9.9 | 9.9 | 10 | 
-| 2F7Y | 10 | 10 | 9.9 | 10 | 
-| M3B8 | 9 | 10 | 9.9 | 10 | 
-| P61K | 10 | 9.9 | 9.9 | 10 | 
-| W4U7 | 10 | 10 |9.8 |	9.5 |
-| 0H4S | 10 | 10 |10 | 10 |
-| G2V5 | 10 | 10 | 9.8 | 10 |
-| 3C9L | 10 | 10 |9.9 |	10 |
-| D5T1 | 10 | 10 |9.9 | 9.5 |
-| X8N0 | 10 | 10 |9.9 |	10 |
-| 1Q7W | 10 | 10 |9.3 | 10 |
-| J6R9 | 10 | 10 |9.9 |	8 |
-| S3K5 | 10 | 10 |9.9 |10 |
-| 4E8B | 10 | 9  | 9 | 10 | 
-| N2Y7 | N/A | N/A | N/A | N/A |
+| Serial Number | QUIZ 1 (TOTAL = 10) | QUIZ 2 (TOTAL = 10) |
+| :--- | :--- | :--- |
+| 7X9B | 10 | 9 |
+| L83P | 10 | 10 |
+| Z4M2 | N/A | N/A |
+| 9JN1 | 10 | 10 |
+| K55H | 9.5 | 9 |
+| R8D3 | 10 | 9.9 |
+| 2F7Y | 10 | 10 |
+| M3B8 | 9 | 10 |
+| P61K | 10 | 9.9 |
+| W4U7 | 10 | 10 |
+| 0H4S | 10 | 10 |
+| G2V5 | 10 | 10 |
+| 3C9L | 10 | 10 |
+| D5T1 | 10 | 10 |
+| X8N0 | 10 | 10 |
+| 1Q7W | 10 | 10 |
+| J6R9 | 10 | 10 |
+| S3K5 | 10 | 10 |
+| 4E8B | 10 | 9 |
+| N2Y7 | N/A | N/A |

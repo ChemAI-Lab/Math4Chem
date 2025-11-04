@@ -4,12 +4,5 @@
 * **Room**: ABB 165 
 
 ## Practice
-The following file contains some practice questions
-[![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Midterm/midterm_practice_material.pdf) 
-
-## Office Hours
-**Room**: ABB 266 <br>
-* Monday (**Oct/20**) 11:00 AM to 12:30 PM
-* Wednesday (**Oct/22**) 10:30 AM to 12:30 PM
-* Monday (**Oct/27**) 11:00 AM to 12:30 PM
-* Wednesday (**Oct/29**) 10:30 AM to 12:30 PM
+The following file contains some practice questions 
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Midterm/midterm_practice_materia.pdf)
