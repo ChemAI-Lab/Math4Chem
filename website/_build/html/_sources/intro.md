@@ -79,14 +79,17 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
    1. Chapter 13, Mathematics for Physical Chemistry, Donald A. McQuarrie.
    2. Chapter 1, Linear Algebra with applications, Gareth Williams.
 
-<!-- 5. Introduction to Linear Regression [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Linear_Regression.pdf)<br> -->
-<!--    **Additional of References** <br> -->
-<!--    1. Chapter 1 and 6, Linear Algebra with applications, Gareth Williams. -->
-<!--    2. Additional notes [link](https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/13/lecture-13.pdf) -->
-<!--    * Notes will be available this time through <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/linear_regression_class.ipynb"> -->
-<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
-<!--  </a> -->
-<!--  -->
+6. Introduction to Linear Regression <br>
+   **Notes** <br>
+       1. Linear Models:
+         [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Introduction_Linear_Regression.pdf)  
+       2. Least Square:  [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Linear_Regression.pdf)   
+
+   **Additional of References** <br>
+     1. Chapter 1 and 6, Linear Algebra with applications, Gareth Williams. 
+     2. Additional notes [link](https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/13/lecture-13.pdf)
+
+
 <!-- 6. NonLinear Equations [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Nonlinear_Equations.pdf)<br>  -->
 <!--    * Notes will be available this time through <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/nonlinear_equations.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
@@ -127,7 +130,7 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
 
 5. Matrix operations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/matrix_operations.ipynb)
 
-6. Linear models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/linear_models.ipynb)
+6. Linear models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/linear_regression.ipynb)
    
 <!-- 5. Linear Regression <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/linear_regression.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
@@ -237,25 +240,25 @@ STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.pdf
 
 ## Weekly Quizzes Grades
 
-| Serial Number | QUIZ 1 (10) | QUIZ 2 (10) |QUIZ 3 (10) | QUIZ 4 (10) |
-| :--- | :--- | :--- | :--- | :--- |
-| 7X9B | 10 | 9 | 8.6 | 9 |
-| L83P | 10 | 10 | 10 | 10 |
-| Z4M2 | N/A | N/A | N/A | N/A |
-| 9JN1 | 10 | 10 | 9.8 | 10 | 
-| K55H | 9.5 | 9 | 9.9 | 10 | 
-| R8D3 | 10 | 9.9 | 9.9 | 10 | 
-| 2F7Y | 10 | 10 | 9.9 | 10 | 
-| M3B8 | 9 | 10 | 9.9 | 10 | 
-| P61K | 10 | 9.9 | 9.9 | 10 | 
-| W4U7 | 10 | 10 |9.8 |	9.5 |
-| 0H4S | 10 | 10 |10 | 10 |
-| G2V5 | 10 | 10 | 9.8 | 10 |
-| 3C9L | 10 | 10 |9.9 |	10 |
-| D5T1 | 10 | 10 |9.9 | 9.5 |
-| X8N0 | 10 | 10 |9.9 |	10 |
-| 1Q7W | 10 | 10 |9.3 | 10 |
-| J6R9 | 10 | 10 |9.9 |	8 |
-| S3K5 | 10 | 10 |9.9 |10 |
-| 4E8B | 10 | 9  | 9 | 10 | 
-| N2Y7 | N/A | N/A | N/A | N/A |
+| Serial Number | QUIZ 1 (10) | QUIZ 2 (10) |QUIZ 3 (10) | QUIZ 4 (10) | QUIZ 5 (10) |
+| :--- | :--- | :--- | :--- | :--- | :--- | 
+| 7X9B | 10 | 9 | 8.6 | 9 | N/A | 
+| L83P | 10 | 10 | 10 | 10 | N/A | 
+| Z4M2 | N/A | N/A | N/A | N/A | N/A | 
+| 9JN1 | 10 | 10 | 9.8 | 10 | 10 | 
+| K55H | 9.5 | 9 | 9.9 | 10 | 9.5 | 
+| R8D3 | 10 | 9.9 | 9.9 | 10 | 9.5 | 
+| 2F7Y | 10 | 10 | 9.9 | 10 | 10 | 
+| M3B8 | 9 | 10 | 9.9 | 10 | 10 | 
+| P61K | 10 | 9.9 | 9.9 | 10 | 10 | 
+| W4U7 | 10 | 10 |9.8 |	9.5 | 10 | 
+| 0H4S | 10 | 10 |10 | 10 | 10 | 
+| G2V5 | 10 | 10 | 9.8 | 10 | 10 | 
+| 3C9L | 10 | 10 |9.9 |	10 | 10 | 
+| D5T1 | 10 | 10 |9.9 | 9.5 | 10 | 
+| X8N0 | 10 | 10 |9.9 |	10 | 8 | 
+| 1Q7W | 10 | 10 |9.3 | 10 | 10 | 
+| J6R9 | 10 | 10 |9.9 |	8 | 10 | 
+| S3K5 | 10 | 10 |9.9 |10 | 9.5 | 
+| 4E8B | 10 | 9  | 9 | 10 |  10 | 
+| N2Y7 | N/A | N/A | N/A | N/A | N/A | 
