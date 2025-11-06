@@ -79,10 +79,11 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
    1. Chapter 13, Mathematics for Physical Chemistry, Donald A. McQuarrie.
    2. Chapter 1, Linear Algebra with applications, Gareth Williams.
 
-6. Introduction to Linear Models and Linear Regression [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Linear_Regression.pdf)<br> 
-   * Notes will be available this time through
-       1. Linear Models:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/linear_models.ipynb)
-       2. Linear Regression:
+6. Introduction to Linear Models and Linear Regression 
+   * Notes 
+       1. Linear Models:
+         [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Introduction_Linear_Regression.pdf)  
+       2. Least Square:  [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Linear_Regression.pdf)   
 
    **Additional of References** <br>
      1. Chapter 1 and 6, Linear Algebra with applications, Gareth Williams. 
@@ -129,7 +130,7 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
 
 5. Matrix operations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/matrix_operations.ipynb)
 
-6. Linear models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/linear_models.ipynb)
+6. Linear models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/linear_regression.ipynb)
    
 <!-- 5. Linear Regression <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/linear_regression.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
