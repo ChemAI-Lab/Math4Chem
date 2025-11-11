@@ -216,6 +216,10 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
 
 6. Quiz 6:   **Deadline:** 11 November 2025, 2:20 PM <br>
    [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_6.pdf) <br>
+
+7. Quiz 7:   **Deadline:** 18 November 2025, 2:20 PM <br>
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_7.pdf) <br>  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_7.ipynb) 
    
 ## Weekly Quizzes Instructions 
 A new list of quizzes will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
