@@ -221,7 +221,10 @@ The tutorials will be held in  HH 102 on Tuesday 1:30 PM – 2:20 PM.
    [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_6.pdf) <br>
 
 7. Quiz 7:   **Deadline:** 18 November 2025, 2:20 PM <br>
-   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_7.pdf) <br>     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_7.ipynb) 
+   [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Quizzes/Quiz_7.pdf) <br>     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_7.ipynb)
+
+8. Quiz 8:   **Deadline:** 18 November 2025, 2:20 PM <br>
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Quizzes/Quiz_8.ipynb)  
    
 ## Weekly Quizzes Instructions 
 A new list of quizzes will be provided each tutorial. These exercises are to be completed individually and are due by the end of the next tutorial session.
@@ -248,23 +251,23 @@ STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.pdf
 
 | Serial Number | QUIZ 1 (10) | QUIZ 2 (10) |QUIZ 3 (10) | QUIZ 4 (10) | QUIZ 5 (10) |
 | :--- | :--- | :--- | :--- | :--- | :--- | 
-| 7X9B | 10 | 9 | 8.6 | 9 | N/A | 
-| L83P | 10 | 10 | 10 | 10 | N/A | 
-| Z4M2 | N/A | N/A | N/A | N/A | N/A | 
-| 9JN1 | 10 | 10 | 9.8 | 10 | 10 | 
-| K55H | 9.5 | 9 | 9.9 | 10 | 9.5 | 
-| R8D3 | 10 | 9.9 | 9.9 | 10 | 9.5 | 
-| 2F7Y | 10 | 10 | 9.9 | 10 | 10 | 
-| M3B8 | 9 | 10 | 9.9 | 10 | 10 | 
-| P61K | 10 | 9.9 | 9.9 | 10 | 10 | 
-| W4U7 | 10 | 10 |9.8 |	9.5 | 10 | 
-| 0H4S | 10 | 10 |10 | 10 | 10 | 
-| G2V5 | 10 | 10 | 9.8 | 10 | 10 | 
-| 3C9L | 10 | 10 |9.9 |	10 | 10 | 
-| D5T1 | 10 | 10 |9.9 | 9.5 | 10 | 
-| X8N0 | 10 | 10 |9.9 |	10 | 10 | 
-| 1Q7W | 10 | 10 |9.3 | 10 | 10 | 
-| J6R9 | 10 | 10 |9.9 |	8 | 10 | 
-| S3K5 | 10 | 10 |9.9 |10 | 9.5 | 
-| 4E8B | 10 | 9  | 9 | 10 |  10 | 
-| N2Y7 | N/A | N/A | N/A | N/A | N/A | 
+| 7X9B | 10 | 9 | 8.6 | 9 | 10| 7 |
+| L83P | 10 | 10 | 10 | 10 | 10 | 8 | 
+| Z4M2 | N/A | N/A | N/A | N/A | N/A | N/A |  
+| 9JN1 | 10 | 10 | 9.8 | 10 | 10 | 10 | 
+| K55H | 9.5 | 9 | 9.9 | 10 | 9.5 | 10 | 
+| R8D3 | 10 | 9.9 | 9.9 | 10 | 9.5 | 10 | 
+| 2F7Y | 10 | 10 | 9.9 | 10 | 10 | 10 | 
+| M3B8 | 9 | 10 | 9.9 | 10 | 10 | 9.5 | 
+| P61K | 10 | 9.9 | 9.9 | 10 | 10 | 10 | 
+| W4U7 | 10 | 10 |9.8 |	9.5 | 10 | 10 | 
+| 0H4S | 10 | 10 |10 | 10 | 10 | 8.5 | 
+| G2V5 | 10 | 10 | 9.8 | 10 | 10 | 10 | 
+| 3C9L | 10 | 10 |9.9 |	10 | 10 | 10 | 
+| D5T1 | 10 | 10 |9.9 | 9.5 | 10 | 10 | 
+| X8N0 | 10 | 10 |9.9 |	10 | 10 | 10 | 
+| 1Q7W | 10 | 10 |9.3 | 10 | 10 | 9 | 
+| J6R9 | 10 | 10 |9.9 |	8 | 10 | 9.5 | 
+| S3K5 | 10 | 10 |9.9 |10 | 9.5 | 10 | 
+| 4E8B | 10 | 9  | 9 | 10 |  10 | 9 | 
+| N2Y7 | N/A | N/A | N/A | N/A | N/A | N/A |  
