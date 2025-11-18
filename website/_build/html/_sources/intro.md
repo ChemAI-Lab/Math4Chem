@@ -131,6 +131,9 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
 5. Matrix operations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/matrix_operations.ipynb)
 
 6. Linear models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/linear_regression.ipynb)
+
+7. Polynomial regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/polynomial_regression_overfitting.ipynb)
+
    
 <!-- 5. Linear Regression <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/linear_regression.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
