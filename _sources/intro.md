@@ -249,8 +249,8 @@ STUDENT_SURNAME_STUDENT_ID_QUIZ_NUMBER.pdf
 
 ## Weekly Quizzes Grades
 
-| Serial Number | QUIZ 1 (10) | QUIZ 2 (10) |QUIZ 3 (10) | QUIZ 4 (10) | QUIZ 5 (10) |
-| :--- | :--- | :--- | :--- | :--- | :--- | 
+| Serial Number | QUIZ 1 (10) | QUIZ 2 (10) |QUIZ 3 (10) | QUIZ 4 (10) | QUIZ 5 (10) | QUIZ 6 (10) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 7X9B | 10 | 9 | 8.6 | 9 | 10| 7 |
 | L83P | 10 | 10 | 10 | 10 | 10 | 8 | 
 | Z4M2 | N/A | N/A | N/A | N/A | N/A | N/A |  
