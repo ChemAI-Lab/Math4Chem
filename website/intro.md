@@ -84,6 +84,7 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
        1. Linear Models:
          [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Introduction_Linear_Regression.pdf)  
        2. Least Square:  [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Linear_Regression.pdf)   
+       3. Polynomial Regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/polynomial_regression_overfitting.ipynb)
 
    **Additional of References** <br>
      1. Chapter 1 and 6, Linear Algebra with applications, Gareth Williams. 
