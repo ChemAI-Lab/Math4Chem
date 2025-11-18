@@ -36,5 +36,31 @@ See the instructions bellow for each component of the assignment.
 [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Assignments/Assigment_1_Hints.pdf)
 
 **Instructions** <br>
-* The **mathematical** part its individual and it must be emailed or hand in (main office). 
+* The **mathematical** part its individual and it must be emailed or hand in (main office).
+
+## Assignment-1 Grades
+| Serial Number | Grade (10)|
+| :--- | :--- |
+| Z4M2 |  N/A   |
+| 2F7Y |  10    | 
+| S3K5 |  7.5   |  
+| K55H |  8     |
+| D5T1 |  8.5   |  
+| 9JN1 |  9     | 
+| M3B8 |  10    | 
+| P61K |  9.5   |
+| 7X9B |  8.5   | 
+| W4U7 |  10    |  
+| G2V5 |  8.5   | 
+| 3C9L |  9.5   | 
+| X8N0 |  9     |
+| L83P |  9.5   |  
+| 1Q7W |  8.5   | 
+| J6R9 |  9.5   | 
+| 0H4S |  7.5   | 
+| 4E8B |  9.5   | 
+| N2Y7 |  N/A   |
+| R8D3 |  10    |   
+
+ 
 <!-- # Assignment 2 (soon!) -->
