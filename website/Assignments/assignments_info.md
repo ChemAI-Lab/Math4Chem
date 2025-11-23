@@ -1,19 +1,28 @@
 # Assignments
 
-# Attention there is an extension on the Assignment 1 
+## Assignment 1
+<!-- # Attention there is an extension on the Assignment 1  -->
 
-## New Deadline: Oct 26th 11:59 PM EST.
+**New Deadline:** Oct 26th 11:59 PM EST.
 
 **Assignment 1** is composed of two parts,
- 1. Coding  
- 2. Mathematical
+ 1. Coding  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assignment1.ipynb) 
+ 2. Mathematical [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assigment1_math.pdf)
 
-See the instructions bellow for each component of the assignment. 
+<!-- See the instructions bellow for each component of the assignment. 
 
 ## 1 Coding Part
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assignment1.ipynb) 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assignment1.ipynb)  -->
 
-**Instructions**
+## Assignment 2
+**Deadline:** Dec 9th 11:59 PM EST.
+**Assignment 2** is composed of two parts,
+ 1. Coding  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assignment2.ipynb) 
+ 2. Mathematical (link to be updated) [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assigment1_math.pdf)
+
+
+
+# Instructions
 * The **coding** part its by pairs (see list bellow) and a single file with both students' info must be emailed to the TA. <br>
   
 ### Groups

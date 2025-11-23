@@ -37,18 +37,10 @@ Notes from previous years wrote by profs. Randy Dumont and Paul Ayers will also 
 <!--   * **Midterm answers** [pdf](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/midterm_1_answer_key.pdf) -->
 * **Assignment 1**, due to **Oct 26th 11:59 PM EST**. 
   * Info: [link](https://chemai-lab.github.io/Math4Chem/Assignments/assignments_info.html)
-<!--   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_1.ipynb"> -->
-<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
-<!--   </a> -->
-<!--   * Link to the assignment solution <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/Assigment_1_solution/Solution.ipynb"> -->
-<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
-<!-- </a> -->
-<!--  -->
-* **Assignment 2**, due to Dec 4. 
-<!--   * Link to the assignment <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assigments/assigment_2.ipynb"> -->
-<!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
-<!-- </a> -->
-<!-- ![Dates](Icons_config/MidTerm_date.jpeg) -->
+
+* **Assignment 2**, due to Dec 9th. 
+  * Info: [link](https://chemai-lab.github.io/Math4Chem/Assignments/assignments_info.html)
+
 
 ## Classes 
 The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 8:30AM - 10:20AM. 
