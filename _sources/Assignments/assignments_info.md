@@ -7,7 +7,7 @@
 
 **Assignment 1** is composed of two parts,
  1. Coding  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assignment1.ipynb) 
- 2. Mathematical [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assigment1_math.pdf)
+ 2. Mathematical [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Assignments/assigment1_math.pdf)
 
 <!-- See the instructions bellow for each component of the assignment. 
 
@@ -19,7 +19,7 @@
 
 **Assignment 2** is composed of two parts,
  1. Coding  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assignment2.ipynb) 
- 2. Mathematical [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assigment2_math.pdf)
+ 2. Mathematical [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Assignments/assigment2_math.pdf)
 
 
 
