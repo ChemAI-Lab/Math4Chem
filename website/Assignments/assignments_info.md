@@ -16,9 +16,10 @@
 
 ## Assignment 2
 **Deadline:** Dec 9th 11:59 PM EST.
+
 **Assignment 2** is composed of two parts,
  1. Coding  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assignment2.ipynb) 
- 2. Mathematical (link to be updated) [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assigment1_math.pdf)
+ 2. Mathematical [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Assignments/assigment2_math.pdf)
 
 
 
