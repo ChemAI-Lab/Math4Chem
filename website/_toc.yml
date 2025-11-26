@@ -20,6 +20,10 @@ parts:
     chapters:
     - file: Midterm/midterm_info.md
       title: Midterm
+  - caption: Exam
+    chapters:
+    - file: Final/final_info.md
+      title: Exam
       
     # - file: jupyter.ipynb
     #   title: Basics of Jupyter, Python, and Programming
