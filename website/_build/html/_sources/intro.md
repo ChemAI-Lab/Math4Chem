@@ -83,8 +83,7 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
      2. Additional notes [link](https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/13/lecture-13.pdf)
 
 6. NonLinear Equations: [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Lecture_Notes/Notes/Nonlinear_Equations.pdf) <br>  
-   * Notes will be available this time through <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/nonlinear_equations.ipynb"> 
- <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   * Notes will be available this time through [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/nonlinear_equations.ipynb)
 
 <!-- 7. Chemical Kinetics [[Notes]](https://github.com/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/[text](Lecture_Notes/Notes/Chemical_kinetics.pdf).pdf)<br>  -->
 <!--   **Additional of References** -->
@@ -125,6 +124,7 @@ The classes will be held in ETB 227 on Tuesday 9:30AM - 10:20AM and on Thursday 
 
 7. Polynomial regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/polynomial_regression_overfitting.ipynb)
 
+8. Nonlinear equations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/nonlinear_equations.ipynb)
    
 <!-- 5. Linear Regression <a target="_blank" href="https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Coding/linear_regression.ipynb"> -->
 <!--   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> -->
