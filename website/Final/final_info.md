@@ -5,7 +5,7 @@
 
  
 ## Practice 
-[![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Final/CHEM_3PC3_Practice_final.pdf) 
+The following file contains some practice questions [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/website/Final/CHEM_3PC3_Practice_final.pdf) 
 
 ## Office Hours
 **Room**: ABB 266 <br>
