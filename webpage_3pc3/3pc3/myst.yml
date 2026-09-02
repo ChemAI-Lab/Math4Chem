@@ -1,0 +1,37 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 8fd00417-c012-4a4c-a375-b76fb8b3b0a3
+  title: CHEM 3PC3 — Mathematical Tools for Chemical Problems
+  description: >-
+    Mathematical tools for solving problems in chemistry: thermodynamics,
+    calculus, linear algebra, and an introduction to Python and model regression.
+  keywords:
+    - CHEM 3PC3
+    - mathematics
+    - chemistry
+    - linear algebra
+    - thermodynamics
+    - Python
+  # Don't build the cloned notebooks as site pages
+  exclude:
+    - lecture_notes/**/*.ipynb
+  toc:
+    - file: index.md
+    - file: 01-classes.md
+    - file: 02-coding-in-class.md
+    - file: 03-tutorials.md
+    - file: 04-weekly-quizzes.md
+    - file: 05-assignment.md
+    - file: 06-midterm-and-final.md
+    - file: 07-important-dates.md
+site:
+  template: book-theme
+  title: CHEM 3PC3
+  options:
+    favicon: images/favicon.png
+    logo: images/math4chem.png
+    logo_dark: images/math4chem-dark.png
+  parts:
+    # An empty file removes the default "Made with MyST" sidebar footer
+    primary_sidebar_footer: parts/primary_sidebar_footer.md
