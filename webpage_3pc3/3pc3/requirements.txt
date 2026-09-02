@@ -1,6 +1,0 @@
-# To execute code in course notebooks
-numpy
-matplotlib
-
-# To interactively browse Jupyter content with MyST
-jupyterlab_myst
