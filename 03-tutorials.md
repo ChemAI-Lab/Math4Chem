@@ -2,7 +2,8 @@
 
 Tutorial materials and programming instruction are posted here.
 
-- [First tutorial](tutorials/3PC3_tutorials.pdf)
+- [First tutorial](tutorials/1st_tutorial_3pc3_fall_2026.pdf)
+- [Second tutorial](tutorials/2nd_tutorial_3pc3_fall_2026.pdf)
 
 ## Practice exercises
 
