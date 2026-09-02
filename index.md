@@ -17,6 +17,17 @@ programming skills will be provided in tutorials.
 
 The outline of the course can be found here.
 
+## Important Annoucements 
+
+The first two tutorials, 16/09 and 23/09, will be online. 
+
+Zoom link: https://mcmaster.zoom.us/j/96863889054 
+
+Meeting ID: 968 6388 9054
+
+Passcode: 721109
+
+
 ## Resources
 
 This course does not follow a specific book as it is designed to be a collection of
@@ -31,14 +42,3 @@ the student wants to consult, here are some recommended books:
 
 Notes from previous years written by Profs. Randy Dumont and Paul Ayers will also be shared.
 
-## Midterm and Assignment Dates
-<!---
-- **Midterm** — 
-  - Time: 
-  - Room: 
-  - Resources: 
-- **Assignment 1** — 
-  - Info: 
-- **Assignment 2** — 
-  - Info:
--->

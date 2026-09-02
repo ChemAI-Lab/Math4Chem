@@ -11,13 +11,6 @@
 | **Tutorial Schedule** | Wednesday 11:30 AM–12:20 PM |
 | **Location** | BSB B142 |
 
-## Important information 
-
-The fisrt two tutorials, 16/09 and 23/09, will be online. 
-The zoom link: https://mcmaster.zoom.us/j/96863889054 
-Meeting ID: 968 6388 9054
-Passcode: 721109
-
 ## Key dates
 
 ```{important}
@@ -28,8 +21,8 @@ Passcode: 721109
 | :-- | :-- |
 | **TBD** —  | Assignment 1 |
 | **TBD** —  | **Midterm** |
-| **TBD** -  | Assignment 2  |
-| **TBD** -  | Exam | 
+| **TBD** —  | Assignment 2  |
+| **TBD** —  | Exam | 
 | Weekly (each tutorial) | Quiz — due by the end of the next tutorial |
 
 <!--
