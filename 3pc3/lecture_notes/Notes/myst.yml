@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 06367821-00f5-4740-a315-f9cab22065bb
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/AlexandreDeCamargo/3pc3
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
