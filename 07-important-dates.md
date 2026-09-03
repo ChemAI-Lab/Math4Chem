@@ -14,15 +14,15 @@
 ## Key dates
 
 ```{important}
-**Midterm — TBD** 
+**Midterm — Oct 23** 
 ```
 
 | Date | Event |
 | :-- | :-- |
 | **TBD** —  | Assignment 1 |
-| **TBD** —  | **Midterm** |
+| **Oct 23** —  | **Midterm (in class)** |
 | **TBD** —  | Assignment 2  |
-| **TBD** —  | Exam | 
+| **TBD** —  | Final Exam | 
 | Weekly (each tutorial) | Quiz — due by the end of the next tutorial |
 
 <!--
