@@ -6,7 +6,7 @@
 | :-- | :-- |
 | **Class Schedule** | Wednesday 9:30–10:20 AM · Friday 8:30–10:20 AM |
 | **Location** | MDCL 1116 |
-| **Office Hours** | Thursday 4:00 PM |
+| **Office Hours** | TBD |
 | **Location** | ABB 266 |
 | **Tutorial Schedule** | Wednesday 11:30 AM–12:20 PM |
 | **Location** | BSB B142 |
