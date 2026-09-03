@@ -1,5 +1,5 @@
 **📅 Key dates**
 
 - **TBD** — Assignment 1
-- **TBD** — Midterm
+- **Oct 23** — Midterm (in class)
 - **TBD** — Assignment 2
