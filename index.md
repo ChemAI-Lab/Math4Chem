@@ -15,7 +15,8 @@ programming skills will be provided in tutorials.
 
 ## Outline 
 
-The outline of the course can be found here.
+The outline of the course can be found  [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/lecture_notes/outline_F2026.pdf)
+
 
 ## Important Annoucements 
 
