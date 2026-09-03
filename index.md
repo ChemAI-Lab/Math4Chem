@@ -21,7 +21,7 @@ The outline of the course <br>
 
 ## Important Annoucements 
 
-The first two tutorials, 16/09 and 23/09, will be online. 
+The first two tutorials, **Sept 16** and **Sept 23**, will be online. 
 
 Zoom link: https://mcmaster.zoom.us/j/96863889054 
 
