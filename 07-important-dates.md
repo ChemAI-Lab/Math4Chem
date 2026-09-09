@@ -14,13 +14,13 @@
 ## Key dates
 
 ```{important}
-**Midterm — Oct 23** 
+**Midterm — Oct 23 (ABB 163)** 
 ```
 
 | Date | Event |
 | :-- | :-- |
 | **TBD** —  | Assignment 1 |
-| **Oct 23** —  | **Midterm (in class)** |
+| **Oct 23** —  | **Midterm (ABB 163)** |
 | **TBD** —  | Assignment 2  |
 | **TBD** —  | Final Exam | 
 | Weekly (each tutorial) | Quiz — due by the end of the next tutorial |
