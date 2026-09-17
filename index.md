@@ -19,15 +19,17 @@ The outline of the course <br>
  [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/lecture_notes/outline_F2026.pdf)
 
 
-## Important Annoucements 
+## Important Announcements  
 
-The first two tutorials, **Sept 16** and **Sept 23**, will be online. 
+### Quiz 1 Deadline 12:30PM 23-Sept-2026 
 
-Zoom link: https://mcmaster.zoom.us/j/96863889054 
+###  The first two tutorials, **Sept 16** and **Sept 23**, will be online. 
 
-Meeting ID: 968 6388 9054
+    Zoom link: https://mcmaster.zoom.us/j/96863889054 
 
-Passcode: 721109
+    Meeting ID: 968 6388 9054
+
+    Passcode: 721109
 
 
 ## Resources
