@@ -21,7 +21,7 @@ The outline of the course <br>
 
 ## Important Announcements  
 
-### :rotating_light: Quiz 1 Deadline 12:30PM 23-Sept-2026
+### 🚨 Quiz 1 Deadline 12:30PM 23-Sept-2026
 
 ###  The first two tutorials, **Sept 16** and **Sept 23**, will be online. 
 
