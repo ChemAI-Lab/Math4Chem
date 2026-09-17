@@ -19,7 +19,7 @@ The outline of the course <br>
  [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/lecture_notes/outline_F2026.pdf)
 
 
-## Important Announcements  
+## Important Announcements  🔔
 
 ### 🚨 Quiz 1 Deadline 12:30PM 23-Sept-2026
 
