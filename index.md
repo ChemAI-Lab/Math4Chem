@@ -21,15 +21,10 @@ The outline of the course <br>
 
 ## Important Announcements  🔔
 
+### Lecture notes on Derivatives Updated (23-Sept-2026)
+* The lecture nots on derivatives have been updated, you can use the same link in **Classes** 📚
+
 ### 🚨 Quiz 1 Deadline 12:30PM 23-Sept-2026
-
-###  The first two tutorials, **Sept 16** and **Sept 23**, will be online. 
-
-    Zoom link: https://mcmaster.zoom.us/j/96863889054 
-
-    Meeting ID: 968 6388 9054
-
-    Passcode: 721109
 
 
 ## Resources
