@@ -1,4 +1,4 @@
-# Weekly Quizzes ✅
+#Weekly Quizzes ✅
 
 Weekly quizzes are posted here.
 
@@ -13,3 +13,4 @@ All quizzes must be submitted electronically by email to decamara@mcmaster.ca. Y
 # Quizzes 
 
 - [Quiz 1 — Fall 2026](quizzes/Quiz_1_Fall_2026.pdf)
+- [Quiz 2 — Fall 2026](quizzes/Quiz_2_Fall_2026.pdf)
