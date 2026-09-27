@@ -24,6 +24,9 @@ The outline of the course <br>
 ### 1st Tutorial (28-Sept-2026, 1PM to 2PM)
 * Room: ABB A304  
 
+### Office Hours (Tuesdays 1:30-2:30 PM ABB 266)
+* Office hours will happen every Tuesday from 1:30 to 2:30 PM, ABB 266.  
+
 
 ### Lecture notes on Derivatives Updated (23-Sept-2026)
 * The lecture nots on derivatives have been updated, you can use the same link in **Classes** 📚
