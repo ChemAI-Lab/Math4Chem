@@ -21,6 +21,10 @@ The outline of the course <br>
 
 ## Important Announcements  🔔
 
+### 1st Tutorial (28-Sept-2026, 1PM to 2PM)
+* Room: ABB A304  
+
+
 ### Lecture notes on Derivatives Updated (23-Sept-2026)
 * The lecture nots on derivatives have been updated, you can use the same link in **Classes** 📚
 
