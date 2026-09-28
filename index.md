@@ -33,6 +33,7 @@ The outline of the course <br>
 
 ### 🚨 Quiz 1 Deadline 12:30PM 23-Sept-2026
 
+### 🚨 Quiz 2 Deadline 12:30PM 02-Oct-2026
 
 ## Resources
 
