@@ -26,6 +26,8 @@ The outline of the course <br>
 
 ### 🚨 Quiz 2 Deadline 12:30PM 02-Oct-2026
 
+### 🚨 Integral notes updated (01-Oct-2026)
+
 ## Resources
 
 This course does not follow a specific book as it is designed to be a collection of
