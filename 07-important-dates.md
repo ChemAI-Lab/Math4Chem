@@ -22,7 +22,7 @@
 | **TBD** —  | Assignment 1 |
 | **Oct 23** —  | **Midterm (ABB 163)** |
 | **TBD** —  | Assignment 2  |
-| **TBD** —  | Final Exam | 
+| **Dec 18 4PM (ABB 165)** —  | Final Exam | 
 | Weekly (each tutorial) | Quiz — due by the end of the next tutorial |
 
 <!--
