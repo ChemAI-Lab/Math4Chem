@@ -12,5 +12,5 @@ Midterm and final exam information will be posted here.
 ## Final
 
 ```{important}
-**Final — TBD** 
+**Final — Dec 18 4PM Room: ABB 165** 
 ```
