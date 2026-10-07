@@ -14,4 +14,8 @@ Derivatives practice problems:
 
 Coding practice problems: 
 
-- [Code 1](coding-exercises/fisrt_code_exercise.pdf) 
+- [Code 1](coding-exercises/fisrt_code_exercise.pdf)
+
+Quiz grades: 
+
+- [Grades](quizzes/quiz_1_2_grades.pdf) 
