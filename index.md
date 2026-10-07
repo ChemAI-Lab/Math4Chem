@@ -28,6 +28,8 @@ The outline of the course <br>
 
 ### 🚨 Integral notes updated (01-Oct-2026)
 
+### 🚨 Integral optional exercises were posted  (07-Oct-2026)
+
 ## Resources
 
 This course does not follow a specific book as it is designed to be a collection of
