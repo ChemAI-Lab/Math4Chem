@@ -1,5 +1,7 @@
 # Tutorials 🛠️
 
+The tutorials will happen Wednesday 11:30 AM – 12:20 PM at BSB B142. 
+
 Tutorial materials and programming instruction are posted here.
 
 - [First tutorial](tutorials/1st_tutorial_3pc3_fall_2026.pdf)
@@ -11,6 +13,7 @@ Derivatives practice problems:
 
 - [Derivatives — exercises](exercises/Derivatives.pdf)
 - [Derivative exercises (extra practice)](exercises/Derivative-exercises.pdf) 
+- [Integrals exercises](exercises/Integrals_Practice.pdf) 
 
 Coding practice problems: 
 
