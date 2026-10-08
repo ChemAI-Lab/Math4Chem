@@ -28,7 +28,9 @@ The outline of the course <br>
 
 ### 🚨 Integral notes updated (01-Oct-2026)
 
-### 🚨 Integral optional exercises were posted  (07-Oct-2026)
+### 🚨 Groups and Assignment 1 posted   
+
+### 🚨 Midterm practice exercises posted  
 
 ## Resources
 
