@@ -24,15 +24,12 @@ The outline of the course <br>
 ### Office Hours (Tuesdays 1:30-2:30 PM ABB 266)
 * Office hours will happen every Tuesday from 1:30 to 2:30 PM, ABB 266.  
 
+### 🚨 Midterm practice exercises UPDATED   
+
 ### 🚨 Thermodynamics Notes Updated (14-Oct-2026) 
-
-### 🚨 Quiz 1 and Quiz 2 grades updated (07-Oct-2026) 
-
-### 🚨 Integral notes updated (01-Oct-2026)
 
 ### 🚨 Groups and Assignment 1 posted   
 
-### 🚨 Midterm practice exercises posted  
 
 ## Resources
 
