@@ -21,8 +21,7 @@ The outline of the course <br>
 
 ## Important Announcements  🔔
 
-### Office Hours (Tuesdays 1:30-2:30 PM ABB 266)
-* Office hours will happen every Tuesday from 1:30 to 2:30 PM, ABB 266.  
+### Office Hours CANCELLED October 20th (NSERC President McMaster visit)
 
 ### 🚨 Midterm practice exercises UPDATED   
 
