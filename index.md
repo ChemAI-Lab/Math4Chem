@@ -21,7 +21,7 @@ The outline of the course <br>
 
 ## Important Announcements  🔔
 
-### Office Hours CANCELLED October 20th (NSERC President McMaster visit)
+### 🚨 Chem 3PC Office Hours Oct 22 12:30 to 1:30 PM ABB 266
 
 ### 🚨 Midterm practice exercises UPDATED   
 
