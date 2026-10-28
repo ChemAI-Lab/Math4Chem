@@ -21,15 +21,6 @@ The outline of the course <br>
 
 ## Important Announcements  🔔
 
-### 🚨 Chem 3PC Office Hours Oct 22 12:30 to 1:30 PM ABB 266
-
-### 🚨 Midterm practice exercises UPDATED   
-
-### 🚨 Thermodynamics Notes Updated (14-Oct-2026) 
-
-### 🚨 Groups and Assignment 1 posted   
-
-
 ## Resources
 
 This course does not follow a specific book as it is designed to be a collection of
