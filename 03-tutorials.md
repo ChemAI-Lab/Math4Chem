@@ -7,6 +7,7 @@ Tutorial materials and programming instruction are posted here.
 - [First tutorial](tutorials/1st_tutorial_3pc3_fall_2026.pdf)
 - [Second tutorial](tutorials/2nd_tutorial_3pc3_fall_2026.pdf)
 - [Third tutorial](tutorials/3rd_tutorial_3pc3_fall_2026-2.pdf) 
+- [Fifth tutorial](tutorials/5th_tutorial.pdf) 
 
 ## Practice exercises
 
@@ -15,6 +16,7 @@ Derivatives practice problems:
 - [Derivatives — exercises](exercises/Derivatives.pdf)
 - [Derivative exercises (extra practice)](exercises/Derivative-exercises.pdf) 
 - [Integrals exercises](exercises/Integrals_Practice.pdf) 
+- [Dot and cross product](exercises/cross_and_dot.pdf) 
 
 Coding practice problems: 
 
