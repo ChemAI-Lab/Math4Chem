@@ -21,6 +21,7 @@ Derivatives practice problems:
 Linear Algebra problems: 
 
 - [Dot and cross product](exercises/cross_and_dot.pdf) 
+- [Matrix multiplication](exercises/matrix_mult.pdf) 
 
 Coding practice problems: 
 
