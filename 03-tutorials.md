@@ -18,7 +18,7 @@ Derivatives practice problems:
 - [Derivative exercises (extra practice)](exercises/Derivative-exercises.pdf) 
 - [Integrals exercises](exercises/Integrals_Practice.pdf) 
 
-Linear Algebra problesm: 
+Linear Algebra problems: 
 
 - [Dot and cross product](exercises/cross_and_dot.pdf) 
 
