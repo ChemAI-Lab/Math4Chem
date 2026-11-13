@@ -15,7 +15,7 @@ In-class Python notebooks open directly in Google Colab.
    **Answer**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/answers/intro_linear_algebra.ipynb)
 
 5. Matrix operations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/matrix_operations.ipynb)
-
+   **Answer**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/answers/matrix_operations.ipynb)
 6. Linear models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/linear_regression.ipynb)
 
 7. Polynomial regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/polynomial_regression_overfitting.ipynb)
