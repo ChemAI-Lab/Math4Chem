@@ -10,7 +10,8 @@ Tutorial materials and programming instruction are posted here.
 - [Fifth tutorial](tutorials/5th_tutorial.pdf) 
 - [Nov 6 class](tutorials/Class_nov_6.pdf) 
 - [Sixth tutorial](tutorials/6th_tutorial.pdf) 
-- [Seventh tutorial]
+- [Seventh tutorial](tutorials/7th_tutorial.pdf) 
+
 ## Practice exercises
 
 Derivatives practice problems:
