@@ -9,7 +9,8 @@ Tutorial materials and programming instruction are posted here.
 - [Third tutorial](tutorials/3rd_tutorial_3pc3_fall_2026-2.pdf) 
 - [Fifth tutorial](tutorials/5th_tutorial.pdf) 
 - [Nov 6 class](tutorials/Class_nov_6.pdf) 
-
+- [Sixth tutorial](tutorials/6th_tutorial.pdf) 
+- [Seventh tutorial]
 ## Practice exercises
 
 Derivatives practice problems:
