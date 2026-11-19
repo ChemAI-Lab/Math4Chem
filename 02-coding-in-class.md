@@ -16,8 +16,8 @@ In-class Python notebooks open directly in Google Colab.
 
 5. Matrix operations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/matrix_operations.ipynb)<br>
    **Answer**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/answers/matrix_operations.ipynb)
-   
-6. Linear models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/linear_models.ipynb)
+
+6. Linear models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/linear_models.ipynb)
    
 7. Linear Regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/linear_regression.ipynb)
 
