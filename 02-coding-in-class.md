@@ -16,12 +16,15 @@ In-class Python notebooks open directly in Google Colab.
 
 5. Matrix operations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/matrix_operations.ipynb)<br>
    **Answer**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/answers/matrix_operations.ipynb)
-6. Linear models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/linear_regression.ipynb)
+   
+6. Linear models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/website/Lecture_Notes/Notes/Coding/linear_models.ipynb)
+   
+7. Linear Regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/linear_regression.ipynb)
 
-7. Polynomial regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/polynomial_regression_overfitting.ipynb)
+8. Polynomial regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/polynomial_regression_overfitting.ipynb)
 
-8. Nonlinear equations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/nonlinear_equations.ipynb)
+9.  Nonlinear equations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/nonlinear_equations.ipynb)
 
-9. Eigenvalue Decomposition [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/lecture_notes/Notes/Eigenvalue_problem.pdf) 
+10. Eigenvalue Decomposition [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/lecture_notes/Notes/Eigenvalue_problem.pdf) 
 
-10. Single Value Decomposition: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/chem_kinetics.ipynb)
+11. Single Value Decomposition: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/chem_kinetics.ipynb)
