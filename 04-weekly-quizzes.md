@@ -14,3 +14,4 @@ All quizzes must be submitted electronically by email to decamara@mcmaster.ca. Y
 
 - [Quiz 1 — Fall 2026](quizzes/Quiz_1_Fall_2026.pdf)
 - [Quiz 2 — Fall 2026](quizzes/Quiz_2_Fall_2026.pdf)
+- [Quiz 3 — Fall 2026](quizzes/Quiz_3_Fall_2026.pdf)
