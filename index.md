@@ -20,7 +20,7 @@ The outline of the course <br>
 
 
 ## Important Announcements  🔔
-:rotating_light: (Nov 26th) **Updated Least Square notes**  [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/lecture_notes/Notes/Linear_Regression.pdf)   
+🚨 (Nov 26th) **Updated Least Square notes**  [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/lecture_notes/Notes/Linear_Regression.pdf)   
 ## Resources
 
 This course does not follow a specific book as it is designed to be a collection of
