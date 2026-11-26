@@ -30,10 +30,8 @@ Lecture materials and notes are posted here.
 
 6. Introduction to Linear Regression <br>
    **Notes** <br>
-       1. Linear Models:
-         [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/lecture_notes/Notes/Introduction_Linear_Regression.pdf)  
-       2. Least Square:  [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/lecture_notes/Notes/Linear_Regression.pdf)   
-       3. Polynomial Regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/polynomial_regression_overfitting.ipynb)
+       1. Least Square:  [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/Math4Chem/raw/main/lecture_notes/Notes/Linear_Regression.pdf)   
+       2. Polynomial Regression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/Math4Chem/blob/main/lecture_notes/Notes/Coding/polynomial_regression_overfitting.ipynb)
 
    **Additional of References** <br>
      1. Chapter 1 and 6, Linear Algebra with applications, Gareth Williams. 
